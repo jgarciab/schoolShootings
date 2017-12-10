@@ -1,0 +1,214 @@
+date	city	state	type_attack	motives	number_victims
+2006-01-30	Goleta	Calif.	Shooting	Public Killing	7
+2006-02-21	Mesa	Ariz.	Shooting	Other	5
+2006-03-15	Detroit	Mich.	Shooting	Other	4
+2006-03-19	Forsyth County	Ga.	Shooting, stabbing	Robbery/burglary	4
+2006-03-25	Seattle	Wash.	Shooting	Public Killing	6
+2006-04-18	St. Louis	Mo.	Shooting	Public Killing	4
+2006-05-16	Phoenix	Ariz.	Shooting	Unknown	4
+2006-05-21	Baton Rouge	La.	Shooting	Family killing	5
+2006-06-01	Indianapolis	Ind.	Shooting	Robbery/burglary	7
+2006-06-17	New Orleans	La.	Shooting	Other	5
+2006-06-27	Slidell	La.	Shooting	Other	4
+2006-07-04	Gustine	Calif.	Shooting	Family killing	4
+2006-07-24	New Orleans	La.	Shooting	Other	4
+2006-08-23	Fresno	Calif.	Shooting	Other	4
+2006-09-04	Newry	Maine	Shooting	Other	4
+2006-09-30	North Charleston	S.C.	Shooting	Family killing	5
+2006-10-02	Nickel Mines	Pa.	Shooting	Public Killing	5
+2006-10-05	Frederick County	Va.	Shooting	Family killing	4
+2006-10-13	Port St. Lucie	Fla.	Shooting	Robbery/burglary	4
+2006-10-14	Kansas City	Kan.	Shooting	Robbery/burglary	4
+2006-10-14	Bonaparte	Iowa	Shooting	Family killing	5
+2006-11-04	New Orleans	La.	Shooting	Family killing	4
+2006-11-17	Kansas City	Mo.	Shooting	Robbery/burglary	4
+2006-12-16	Kansas City	Kan.	Shooting	Family killing	6
+2007-01-19	Fishkill	N.Y.	Shooting	Robbery/burglary	5
+2007-01-28	Omaha	Neb.	Shooting	Family killing	4
+2007-01-29	Youngstown	Ohio	Shooting	Other	4
+2007-02-12	Salt Lake City	Utah	Shooting	Public Killing	5
+2007-04-10	Happy Valley	Calif.	Shooting	Family killing	5
+2007-04-16	Blacksburg	Va.	Shooting	Public Killing	32
+2007-06-09	Delavan	Wis.	Shooting	Family killing	5
+2007-06-14	Channahon Township	Ill.	Shooting	Family killing	4
+2007-07-22	Philadelphia	Pa.	Shooting	Other	4
+2007-08-25	Jonestown	Texas	Shooting	Other	4
+2007-09-17	Detroit	Mich.	Shooting	Robbery/burglary	4
+2007-09-22	Miami	Fla.	Shooting	Other	4
+2007-10-07	Crandon	Wis.	Shooting	Other	6
+2007-10-18	Detroit	Mich.	Shooting	Other	4
+2007-11-11	Temecula	Calif.	Shooting	Family killing	4
+2007-11-22	Unity	Md.	Shooting	Family killing	4
+2007-12-05	Omaha	Neb.	Shooting	Public Killing	8
+2007-12-09	Colorado Springs	Colo.	Shooting	Other	4
+2007-12-14	Largo	Fla.	Shooting	Family killing	4
+2007-12-24	Carnation	Wash.	Shooting	Family killing	6
+2008-01-14	Indianapolis	Ind.	Shooting	Robbery/burglary	4
+2008-02-02	Tinley Park	Ill.	Shooting	Robbery/burglary	5
+2008-02-02	Cockeysville	Md.	Shooting	Family killing	4
+2008-02-07	Los Angeles	Calif.	Shooting	Family killing	4
+2008-02-07	Kirkwood	Mo.	Shooting	Public Killing	6
+2008-02-14	Dekalb	Ill.	Shooting	Public Killing	5
+2008-02-23	Yorba Linda	Calif.	Shooting	Family killing	4
+2008-02-27	Bristol	Tenn.	Shooting	Family killing	4
+2008-03-02	Memphis	Tenn.	Shooting, stabbing	Other	6
+2008-03-18	Santa Maria	Calif.	Shooting	Public Killing	4
+2008-03-24	Charlotte	N.C.	Shooting	Other	4
+2008-04-24	Chicago	Ill.	Shooting	Robbery/burglary	5
+2008-04-26	Easley	S.C.	Shooting	Family killing	4
+2008-05-10	Houston	Texas	Shooting	Family killing	4
+2008-06-01	Ingram	Texas	Shooting	Family killing	4
+2008-06-25	Henderson	Ky.	Shooting	Public Killing	5
+2008-07-04	Milwaukee	Wis.	Shooting	Other	4
+2008-07-24	Birmingham	Ala.	Shooting, Smoke inhalation & burns	Family killing	4
+2008-09-01	Camden	N.J.	Shooting	Family killing	4
+2008-09-02	Alger	Wash.	Shooting	Public Killing	6
+2008-09-08	Irvington	N.J.	Shooting	Robbery/burglary	4
+2008-09-29	Wright Township	Mich.	Shooting, blunt force	Other	4
+2008-10-05	Porter Ranch	Calif.	Shooting	Family killing	5
+2008-10-30	Jefferson	La.	Shooting	Robbery/burglary	4
+2008-11-02	Long Beach	Calif.	Shooting	Other	5
+2008-12-06	Alton	Texas	Shooting	Family killing	4
+2008-12-24	Covina	Calif.	Shooting, Smoke inhalation & burns	Family killing	9
+2009-01-27	Wilmington	Calif.	Shooting	Family killing	6
+2009-02-14	Brockport	N.Y.	Shooting	Other	4
+2009-03-05	Cleveland	Ohio	Shooting	Family killing	5
+2009-03-10	Samson	Ala.	Shooting	Family killing	10
+2009-03-12	Conover	N.C.	Shooting, stabbing	Robbery/burglary	4
+2009-03-15	Miami	Fla.	Shooting	Family killing	4
+2009-03-16	Raytown	Mo.	Shooting	Family killing	4
+2009-03-21	Oakland	Calif.	Shooting	Other	4
+2009-03-29	Carthage	N.C.	Shooting	Public Killing	8
+2009-03-29	Sunnyvale	Calif.	Shooting	Family killing	5
+2009-04-03	Binghamton	N.Y.	Shooting	Public Killing	13
+2009-04-04	Graham	Wash.	Shooting	Family killing	5
+2009-04-07	Green Hill	Ala.	Shooting	Family killing	4
+2009-04-17	Middletown	Md.	Shooting	Family killing	4
+2009-06-22	Kansas City	Kan.	Shooting	Family killing	4
+2009-08-27	Lawrenceville	Ga.	Shooting	Family killing	4
+2009-11-01	Mount Airy	N.C.	Shooting	Family killing	4
+2009-11-05	Killeen	Texas	Shooting	Public Killing	13
+2009-11-09	Oklahoma City	Okla.	Shooting	Other	4
+2009-11-12	Hot Springs	Ark.	Shooting	Robbery/burglary	5
+2009-11-26	Jupiter	Fla.	Shooting	Family killing	4
+2009-11-28	Burlingame	Kan.	Shooting	Family killing	4
+2009-11-29	Parkland	Wash.	Shooting	Public Killing	4
+2009-12-03	Madison	Wis.	Shooting	Family killing	4
+2010-01-17	Bellville	Texas	Shooting	Family killing	5
+2010-01-19	Spout Spring	Va.	Shooting	Family killing	8
+2010-02-26	Milwaukee	Wis.	Suffocation, stabbing, shooting	Robbery/burglary	4
+2010-03-25	New Orleans	La.	Shooting	Family killing	4
+2010-03-30	Washington	D.C.	Shooting	Family killing	4
+2010-04-03	North Hollywood	Calif.	Shooting	Other	4
+2010-04-14	Chicago	Ill.	Shooting	Family killing	5
+2010-06-06	Hialeah	Fla.	Shooting	Public Killing	4
+2010-08-03	Manchester	Conn.	Shooting	Public Killing	8
+2010-08-06	Prince George's County	Md.	Shooting	Other	4
+2010-08-14	Buffalo	N.Y.	Shooting	Other	4
+2010-08-28	Lake Havasu City	Ariz.	Shooting	Family killing	5
+2010-09-02	Chicago	Ill.	Shooting	Other	4
+2010-09-04	Lake Charles	La.	Shooting	Family killing	4
+2010-09-11	Jackson	Ky.	Shooting	Family killing	5
+2010-09-27	Riviera Beach	Fla.	Shooting	Family killing	5
+2010-09-28	Boston	Mass.	Shooting	Robbery/burglary	4
+2010-11-19	Tallahassee	Fla.	Shooting, drowning	Family killing	4
+2010-11-30	Bonne Terre	Mo.	Shooting, strangulation	Family killing	4
+2011-01-08	Tucson	Ariz.	Shooting	Public Killing	6
+2011-01-28	Minot	N.D.	Shooting	Family killing	4
+2011-02-11	Los Angeles	Calif.	Shooting	Other	4
+2011-04-16	Oak Harbor	Ohio	Shooting	Family killing	4
+2011-04-30	West Union	Ohio	Shooting	Family killing	4
+2011-06-02	Yuma	Ariz.	Shooting	Family killing	5
+2011-06-19	Medford	N.Y.	Shooting	Robbery/burglary	4
+2011-07-03	Wagener	S.C.	Shooting	Family killing	4
+2011-07-07	Grand Rapids	Mich.	Shooting	Family killing	7
+2011-07-07	Wheatland	Wyo.	Shooting	Family killing	4
+2011-07-23	Grand Prairie	Texas	Shooting	Family killing	5
+2011-08-05	Ocala	Fla.	Shooting	Family killing	4
+2011-08-07	Copley Township	Ohio	Shooting	Family killing	7
+2011-08-27	Chesterfield	Va.	Shooting	Family killing	4
+2011-09-05	Morgantown	W.Va.	Shooting	Public Killing	5
+2011-09-06	Carson City	Nev.	Shooting	Public Killing	4
+2011-09-25	Laurel	Ind.	Shooting	Other	5
+2011-10-12	Seal Beach	Calif.	Shooting	Public Killing	8
+2011-10-14	Liberty	S.C.	Shooting	Family killing	4
+2011-11-20	Greensboro	N.C.	Shooting	Family killing	5
+2011-11-30	Bay City	Texas	Shooting	Family killing	4
+2011-12-15	Gargatha	Va.	Shooting	Family killing	4
+2011-12-16	Emington	Ill.	Shooting	Family killing	4
+2011-12-25	Grapevine	Texas	Shooting	Family killing	6
+2012-01-17	Villa Park	Ill.	Shooting	Family killing	4
+2012-01-29	Birmingham	Ala.	Shooting	Robbery/burglary	5
+2012-02-21	Norcross	Ga.	Shooting	Family killing	4
+2012-04-02	Oakland	Calif.	Shooting	Public Killing	7
+2012-05-02	Gilbert	Ariz.	Shooting	Family killing	4
+2012-05-15	Port St. John	Fla.	Shooting	Family killing	4
+2012-05-19	Leivasy	W.Va.	Shooting	Robbery/burglary	4
+2012-05-20	Seattle	Wash.	Shooting	Public Killing	5
+2012-05-22	Salem	Ore.	Shooting	Family killing	5
+2012-06-02	Tempe	Ariz.	Shooting	Family killing	4
+2012-07-06	Newton Falls	Ohio	Shooting	Family killing	4
+2012-07-20	Aurora	Colo.	Shooting	Public Killing	12
+2012-08-05	Oak Creek	Wis.	Shooting	Public Killing	6
+2012-09-27	Minneapolis	Minn.	Shooting	Public Killing	6
+2012-10-22	Park City	Tenn.	Shooting	Robbery/burglary	6
+2012-11-18	New Town	N.D.	Shooting	Other	4
+2012-12-02	Los Angeles	Calif.	Shooting	Other	4
+2012-12-04	Detroit	Mich.	Shooting	Other	4
+2012-12-08	Tule River Reservation	Calif.	Shooting	Family killing	4
+2012-12-14	Newtown	Conn.	Shooting	Public Killing	27
+2013-01-07	Tulsa	Okla.	Shooting	Robbery/burglary	4
+2013-01-19	Albuquerque	N.M.	Shooting	Family killing	5
+2013-03-13	Herkimer	N.Y.	Shooting	Public Killing	4
+2013-04-18	Akron	Ohio	Shooting	Robbery/burglary	4
+2013-04-22	Federal Way	Wash.	Shooting	Family killing	4
+2013-04-24	Manchester	Ill.	Shooting	Family killing	5
+2013-04-28	Ottawa	Kan.	Shooting	Family killing	4
+2013-05-11	Waynesville	Ind.	Shooting	Other	4
+2013-05-13	Fernley	Nev.	Shooting, Stabbing	Robbery/burglary	5
+2013-06-07	Santa Monica	Calif.	Shooting	Public Killing	5
+2013-07-26	Hialeah	Fla.	Shooting	Public Killing	6
+2013-07-26	Clarksburg	W.Va.	Shooting	Other	4
+2013-08-07	Dallas	Texas	Shooting	Family killing	4
+2013-08-14	Oklahoma City	Okla.	Shooting	Family killing	4
+2013-09-11	Crab Orchard	Tenn.	Shooting	Robbery/burglary	4
+2013-09-16	Washington	D.C.	Shooting	Public Killing	12
+2013-09-20	Rice	Texas	Shooting	Family killing	4
+2013-10-09	Paris	Texas	Shooting	Unknown	4
+2013-10-26	Phoenix	Ariz.	Shooting	Unknown	4
+2013-10-28	Terrell	Texas	Shooting	Other	5
+2013-10-29	Callison	S.C.	Shooting	Family killing	5
+2013-11-07	Jacksonville	Fla.	Shooting	Unknown	4
+2013-11-23	Tulsa	Okla.	Shooting	Other	4
+2013-12-01	Topeka	Kan.	Shooting	Family killing	4
+2014-01-16	Spanish Fork	Utah	Shooting	Family killing	4
+2014-01-25	Cypress	Texas	Shooting	Family killing	4
+2014-02-20	Indianapolis	Ind.	Shooting	Other	4
+2014-02-20	Alturas	Calif.	Shooting	Public Killing	4
+2014-05-23	Isla Vista	Calif.	Shooting	Public Killing	6
+2014-06-08	San Carlos Park	Fla.	Shooting	Family killing	4
+2014-07-09	Spring	Texas	Shooting	Family killing	6
+2014-07-26	Saco	Maine	Shooting	Family killing	4
+2014-08-03	Culpeper	Va.	Shooting	Family killing	4
+2014-09-02	Kansas City	Mo.	Shooting	Robbery/burglary	5
+2014-09-18	Bell	Fla.	Shooting	Family killing	7
+2014-10-24	Marysville	Wash.	Shooting	Public Killing	4
+2014-10-26	Cadiz	Ky.	Shooting	Family killing	4
+2014-11-15	Springfield	Mo.	Shooting	Other	4
+2014-11-21	Cleveland	Ohio	Shooting	Family killing	5
+2014-12-01	Cheat Lake	W.Va.	Shooting	Other	4
+2014-12-15	Souderton	Pa.	Shooting, stabbing, blunt force	Family killing	6
+2014-12-20	Rockford	Ill.	Shooting	Family killing	4
+2015-01-09	San Francisco	Calif.	Shooting	Public Killing	4
+2015-01-31	LaGrange	Ga.	Shooting, unknown	Family killing	5
+2015-02-07	Douglasville	Ga.	Shooting	Family killing	4
+2015-02-26	Tyrone	Mo.	Shooting	Unknown	7
+2015-03-24	Indianapolis	Ind.	Shooting	Other	4
+2015-04-16	Phoenix	Ariz.	Shooting	Family killing	4
+2015-05-12	Tuscon	Ariz.	Shooting	Family killing	4
+2015-05-17	Waco	Texas	Shooting	Other	9
+2015-06-07	Deer Lodge	Mont.	Shooting	Family killing	4
+2015-06-13	Columbus	Ohio	Shooting	Unknown	4
+2015-06-17	Charleston	S.C.	Shooting	Public Killing	9
+2015-07-15	Holly Hill	S.C.	Shooting	Unknown	4
+2015-07-16	Chattanooga	Tenn.	Shooting	Public Killing	5
