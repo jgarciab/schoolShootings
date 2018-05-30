@@ -9,10 +9,6 @@ def contains_digits(s):
 import time
 from datetime import datetime
 from segmentedLeastSq import *
-import matplotlib
-font = {'family':'sans-serif','sans-serif':['Helvetica'],'size' : 12}
-
-matplotlib.rc('font', **font)
 
 
 

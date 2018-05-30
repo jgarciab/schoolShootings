@@ -1,0 +1,291 @@
+date	state	school	type_school	death	suicide	number_victims	lat	lon
+2018-02-14	FL	Marjory Stoneman Douglas High School 	K-12 				26.304503000000004	-80.26945699999999
+2018-02-08	NY	The Metropolitan High School 	K-12 				40.827733	-73.897018
+2018-02-05	MN	Harmony Learning Center 	K-12 				45.021273	-93.017491
+2018-02-05	MD	Oxon Hill High School 	K-12 				38.797249	-76.993634
+2018-02-01	CA	Salvador B. Castro Middle School 	K-12 				34.061282	-118.26291299999998
+2018-01-31	PA	Lincoln High School 	K-12 				40.044204	-75.041913
+2018-01-26	MI	Dearborn High School 	K-12 				42.308796	-83.261711
+2018-01-25	AL	Murphy High School 	K-12 				30.682838	-88.08663
+2018-01-23	KY	Marshall County High School 	K-12 				36.912803000000004	-88.332763
+2018-01-22	LA	The NET Charter High School 	K-12 				30.027390000000004	-90.051317
+2018-01-22	TX	Italy High School 	K-12 				32.180915999999996	-96.878557
+2018-01-20	NC	Wake Forest University 	College 				36.13525	-80.276342
+2018-01-15	TX	Wiley College 	College 				32.538486999999996	-94.375187
+2018-01-10	CA	California State University, San Bernardino 	College 				34.182179	-117.323532
+2018-01-10	AZ	Coronado Elementary School 	K-12 				31.475638	-110.195577
+2018-01-10	TX	Grayson College 	College 				33.706078999999995	-96.634449
+2018-01-04	WA	New Start High School 	K-12 				47.496167	-122.342495
+2017-12-31	WA	Pinewood Elementary School 	K-12 				48.072871	-122.160878
+2017-12-27	CA	Lincoln Elementary School 	K-12 				34.682952	-118.103867
+2017-12-19	MI	Beecher High School 	K-12 				43.098427	-83.715339
+2017-12-14	TX	Elisha M. Pease Elementary School 	K-12 				32.69784	-96.773324
+2017-12-13	PA	Penn State Beaver 	College 				40.678197	-80.29638299999999
+2017-12-12	TX	Sam Rayburn High School 	K-12 				29.677453000000003	-95.18246500000001
+2017-12-12	PA	East Stroudsburg University 	College 				40.997091	-75.172533
+2017-12-11	NC	High Point Central High School 	K-12 				35.957044	-80.02122800000001
+2017-12-07	NM	Aztec High School 	K-12 				36.820791	-107.99073700000001
+2017-11-30	VA	Salem High School 	K-12 				36.782718	-76.143682
+2017-11-29	OH	Bath High School 	K-12 				40.77301	-84.052258
+2017-11-28	CA	Booksin Elementary School 	K-12 				37.288723	-121.906648
+2017-11-23	CO	Manual High School 	K-12 				39.755664	-104.96663999999998
+2017-11-17	TN	North Side High School 	K-12 				35.692257	-88.828026
+2017-11-14	CA	Rancho Tehama Elementary School 	K-12 				40.018747999999995	-122.39308999999999
+2017-11-14	FL	Lake Minneola High School 	K-12 				28.580885	-81.71978299999999
+2017-11-11	GA	Albany State University 	College 				31.569032	-84.140424
+2017-11-10	GA	Lakeview Academy 	K-12 				33.090509000000004	-83.264271
+2017-11-10	TX	Texarkana College 	College 				33.44359	-94.07793000000001
+2017-11-09	GA	Benjamin Banneker High School 	K-12 				33.590725	-84.519325
+2017-11-07	TX	Texas Christian University 	College 				32.70953	-97.36279499999999
+2017-11-03	MI	Pattengill Middle School 	K-12 				42.739422	-84.524671
+2017-10-31	UT	University of Utah 	College 				40.764936999999996	-111.842102
+2017-10-30	IL	Irma C. Ruiz Elementary School 	K-12 				41.8479	-87.681223
+2017-10-25	LA	Grambling State University 	College 				32.521291	-92.719296
+2017-10-19	VA	Virginia State University 	College 				37.238461	-77.419872
+2017-10-14	VA	Virginia State University 	College 				37.238461	-77.419872
+2017-10-11	MA	Stonehill College 	College 				42.059015	-71.080628
+2017-10-09	TX	Texas Tech University 	College 				33.584259	-101.878282
+2017-09-30	PA	Purchase Line Elementary School 	K-12 				40.73511	-78.917244
+2017-09-29	MO	Lee's Summit North High School 	K-12 				38.928988000000004	-94.37777
+2017-09-20	IL	Mattoon High School 	K-12 				39.474343	-88.38614100000001
+2017-09-17	OH	University of Akron 	College 				41.076655	-81.511339
+2017-09-13	WA	Freeman High School 	K-12 				47.52	-117.196394
+2017-09-12	MN	St. Catherine University 	College 				44.925308	-93.182822
+2017-09-08	AR	North Little Rock High School 	K-12 				34.776059000000004	-92.268057
+2017-09-08	OH	Columbus Scioto 6-12 	K-12 				39.901527	-82.996806
+2017-09-05	TN	Tennessee State University 	College 				36.166821999999996	-86.82758199999999
+2017-09-01	TX	Texas A&M University 	College 				30.618531	-96.336499
+2017-08-17	GA	Lithia Springs High School 	K-12 				33.755571	-84.657863
+2017-07-23	AR	University of Arkansas 	College 				36.067832	-94.17365500000001
+2017-07-21	UT	Spanish Fork High School 	K-12 				40.111063	-111.66049
+2017-07-19	WI	Hickman Academy Prepatory School 	K-12 				43.093845	-87.976546
+2017-07-13	NV	University of Nevada, Las Vegas 	College 				36.10852	-115.143171
+2017-06-22	SC	Wilson High School 	K-12 				34.219676	-79.73121400000001
+2017-06-16	IL	Warren Elementary School 	K-12 				41.727722	-87.575008
+2017-06-05	IN	Ravenscroft Beauty College 	College 				41.121672	-85.046054
+2017-05-24	AL	Greensboro High School 	K-12 				32.707962	-87.5883
+2017-05-23	TX	Kirbyville High School 	K-12 				30.648551	-93.896766
+2017-05-15	LA	Moss Bluff Elementary School 	K-12 				30.299484000000003	-93.203354
+2017-05-02	TX	North Lake College 	College 				32.871217	-96.967303
+2017-04-25	UT	Utah Valley University 	College 				40.278831	-111.715197
+2017-04-15	OK	Booker T. Washington High School 	K-12 				36.188142	-95.970535
+2017-04-10	CA	North Park Elementary School 	K-12 				34.179296	-117.30131899999999
+2017-04-07	MN	University of St. Thomas 	College 				44.941751000000004	-93.191491
+2017-03-31	FL	University of West Florida 	College 				30.546934999999998	-87.216022
+2017-03-15	SC	Limestone College 	College 				35.055653	-81.649891
+2017-03-13	OH	Central State University 	College 				39.716782	-83.87647
+2017-02-06	LA	Scotlandville High School 	K-12 				30.533459000000004	-91.176736
+2017-01-27	SC	South Aiken High School 	K-12 				33.521916	-81.712799
+2017-01-22	KS	Kansas State University 	College 				39.197444	-96.584725
+2017-01-20	OH	West Liberty-Salem High School 	K-12 				40.21598	-83.754573
+2017-01-17	FL	Franklin County Elementary School 	K-12 				29.743414	-84.875647
+2017-01-10	AL	Alexander City Middle School 	K-12 				32.945246000000004	-85.948672
+2017-01-05	OH	Warren County Career Center 	College 				39.490003	-84.205871
+2016-12-29	UT	University of Utah 	College 				40.764936999999996	-111.842102
+2016-12-09	MO	Bayless High School 	K-12 				38.552111	-90.301456
+2016-12-01	UT	Mueller Park Junior High School 	K-12 				40.872384999999994	-111.861186
+2016-11-17	MN	Crossroads Elementary School 	K-12 				44.970808	-93.12288199999999
+2016-11-11	MI	Bay City Western High School 	K-12 				43.604951	-84.078202
+2016-11-03	CO	Berthoud High School 	K-12 				40.29891	-105.08652099999999
+2016-11-02	CO	Grand Junction High School 	K-12 				39.080777000000005	-108.562921
+2016-10-23	AL	Alabama A&M University 	College 				34.784633	-86.57203100000001
+2016-10-23	MI	Davenport University 	College 				42.849392	-85.530676
+2016-10-11	AL	Vigor High School 	K-12 				30.743173	-88.08036700000001
+2016-10-06	TX	Dunbar High School 	K-12 				32.719793	-97.23101899999999
+2016-09-28	SC	Townville Elementary School 	K-12 				34.563674	-82.902399
+2016-09-15	TX	Tarleton State University 	College 				32.215897999999996	-98.215903
+2016-09-09	IA	Cedar Rapids Jefferson High School 	K-12 				41.965818	-91.698704
+2016-09-09	AL	Auburn University at Montgomery 	College 				32.369746	-86.17665799999999
+2016-09-08	TX	Alpine High School 	K-12 				30.371484000000002	-103.665756
+2016-09-02	OK	McLain High School 	K-12 				36.225181	-95.97485999999999
+2016-08-25	MS	Northeast Mississippi Community College 	College 				34.667266	-88.562436
+2016-07-25	MO	Ava High School 	K-12 				36.956871	-92.65941
+2016-07-07	TX	El Centro College 	College 				32.779759999999996	-96.80533100000001
+2016-06-10	CA	Solano Community College 	College 				38.135201	-122.20357
+2016-06-07	MO	University of Missouri 	College 				38.940381	-92.327738
+2016-06-01	CA	University of California-Los Angeles 	College 				34.068921	-118.445181
+2016-05-15	KS	Augusta High School 	K-12 				37.696684999999995	-96.970156
+2016-05-13	SC	Southside High School 	K-12 				34.7967	-82.40381500000001
+2016-05-11	NY	St. John's University 	College 				40.723014	-73.795035
+2016-05-06	ID	Robert Stuart Middle School 	K-12 				42.575306	-114.49195300000001
+2016-05-06	MO	University of Missouri 	College 				38.940381	-92.327738
+2016-05-06	FL	Oscar Patterson Elementary School 	K-12 				30.166455	-85.638797
+2016-05-05	MD	High Point High School 	K-12 				39.042611	-76.943467
+2016-05-02	TX	Kimball High School 	K-12 				32.699661	-96.877071
+2016-04-29	WV	University of Charleston 	College 				38.33226	-81.61561999999999
+2016-04-16	AL	Tuskegee University 	College 				32.430678	-85.707285
+2016-04-02	KS	Kansas State University 	College 				39.197444	-96.584725
+2016-03-27	WA	University of Puget Sound 	College 				47.261764	-122.48145500000001
+2016-03-23	NC	Johnson C. Smith University 	College 				35.242719	-80.856212
+2016-03-21	GA	Georgia State University 	College 				33.753068	-84.38528199999999
+2016-03-15	AL	Huffman High School 	K-12 				33.611221	-86.683192
+2016-02-29	OH	Madison High School 	K-12 				39.533853	-84.443375
+2016-02-26	TX	Palestine High School 	K-12 				31.73818	-95.605374
+2016-02-17	FL	Rock Crusher Elementary School 	K-12 				28.849009999999996	-82.53689
+2016-02-12	AZ	Independence High School 	K-12 				33.532439000000004	-112.22275400000001
+2016-02-09	MI	Muskegon Heights High School 	K-12 				43.20725	-86.247445
+2016-01-29	PA	Benjamin Franklin High School 	K-12 				39.96359	-75.162017
+2016-01-22	IN	Lawrence Central High School 	K-12 				39.85667	-86.03821500000001
+2016-01-20	IN	Northwest Community High School 	K-12 				39.814651	-86.258554
+2016-01-13	AR	Harmony Grove High School 	K-12 				33.651494	-92.77990600000001
+2016-01-12	DE	Central Middle School 	K-12 				39.164456	-75.523122
+2015-12-29	CO	Aims Community College 	College 				40.40955	-104.76275
+2015-12-18	TN	Lane College 	College 				35.627775	-88.806113
+2015-11-29	OH	Ohio State University 	College 				40.014191	-83.030914
+2015-11-11	AR	Sulphur Rock Magnet School 	K-12 				35.756083000000004	-91.49992900000001
+2015-11-10	FL	Lecanto High School 	K-12 				28.824296	-82.498465
+2015-11-05	GA	Vereen School 	K-12 				31.176828999999998	-83.805904
+2015-11-01	NC	Winston-Salem State University 	College 				36.089874	-80.225117
+2015-10-25	NC	North Carolina Central University 	College 				35.974737	-78.898101
+2015-10-24	TX	Ed White Middle School 	K-12 				29.505615999999996	-98.380185
+2015-10-22	TN	Tennessee State University 	College 				36.166821999999996	-86.82758199999999
+2015-10-15	OK	Langston University 	College 				35.945962	-97.262907
+2015-10-15	TX	Wagner High School 	K-12 				29.456642	-98.356936
+2015-10-11	FL	University of South Florida 	College 				28.058703	-82.413854
+2015-10-09	TX	Texas Southern University 	College 				29.721763	-95.360612
+2015-10-09	AZ	Northern Arizona University - Flagstaff 	College 				35.185190000000006	-111.654707
+2015-10-06	TX	Texas Southern University 	College 				29.721763	-95.360612
+2015-10-02	MO	University City High School 	K-12 				38.665088	-90.329303
+2015-10-01	OR	Umpqua Community College 	College 				43.289522	-123.333247
+2015-09-30	SD	Harrisburg High School 	K-12 				43.434295	-96.719448
+2015-09-28	MT	Montana Tech of the University of Montana 	College 				46.012346	-112.557698
+2015-09-22	NC	Central Elementary School 	K-12 				35.927912	-80.960631
+2015-09-14	MS	Delta State University 	College 				33.745378	-90.735451
+2015-09-11	LA	Northside High School 	K-12 				30.251483	-92.002838
+2015-09-03	CA	Sacramento City College 	College 				38.540867	-121.49148799999999
+2015-08-27	GA	Savannah State University 	College 				32.024521	-81.062637
+2015-08-26	TX	Texas Southern University 	College 				29.721763	-95.360612
+2015-08-25	GA	Hornsby Elementary School 	K-12 				33.459921	-81.937786
+2015-08-23	TX	William Velasquez Elementary 	K-12 				29.539189	-95.683017
+2015-08-08	KS	Wichita State 	College 				37.719393	-97.292869
+2015-08-08	TX	Paradise High School 	K-12 				33.144268	-97.690696
+2015-07-27	FL	University of Florida 	College 				29.643633	-82.35493000000001
+2015-07-24	TX	Elolf Elementary School 	K-12 				29.486210999999997	-98.31754000000001
+2015-07-05	TX	Coppell Middle School East 	K-12 				32.961876000000004	-96.996092
+2015-06-23	NE	Fort Calhoun Elementary School 	K-12 				41.456361	-96.021647
+2015-06-04	NC	South Macon Elementary School 	K-12 				35.113436	-83.399244
+2015-05-27	FL	Everglades City School 	K-12 				25.864086	-81.387025
+2015-05-24	MI	Southwestern Classical Academy 	K-12 				42.998104	-83.69957099999999
+2015-05-20	TX	Robinson High School 	K-12 				31.462715999999997	-97.121388
+2015-05-12	AZ	Corona del Sol High School 	K-12 				33.325218	-111.926166
+2015-05-05	GA	Conyers Middle School 	K-12 				33.683907	-84.004715
+2015-05-04	OH	Willow Elementary School 	K-12 				41.475314000000004	-81.656187
+2015-05-04	UT	Utah Valley Univeristy 	College 				40.278831	-111.715197
+2015-04-27	WA	North Thurston High School 	K-12 				47.052296000000005	-122.83246499999998
+2015-04-22	NV	Ruthe Deskin Elementary School 	K-12 				36.243462	-115.25514199999999
+2015-04-19	DE	Delaware State University 	College 				39.186137	-75.542273
+2015-04-19	NC	Johnson C. Smith University 	College 				35.242719	-80.856212
+2015-04-18	DE	Delaware State University 	College 				39.186137	-75.542273
+2015-04-17	TX	Seguin High School 	K-12 				29.577648999999997	-97.946973
+2015-04-13	NC	Wayne Community College 	College 				35.403079	-77.944468
+2015-04-04	WA	Everett Community College 	College 				48.005977	-122.203897
+2015-04-02	PA	Community College of Beaver County 	College 				40.656203000000005	-80.305293
+2015-04-02	TN	Lane College 	College 				35.627775	-88.806113
+2015-03-09	MN	Northwest Passage High School 	K-12 				45.177287	-93.307583
+2015-02-23	FL	Bethune-Cookman University 	College 				29.211009999999998	-81.031575
+2015-02-15	GA	University of Georgia 	College 				33.948005	-83.37732199999999
+2015-02-15	AR	Lawson Elementary School 	K-12 				34.716293	-92.493574
+2015-02-15	CA	Tenaya Middle School 	K-12 				37.292839	-120.494082
+2015-02-05	SC	University of South Carolina 	College 				33.996112	-81.027428
+2015-02-04	MD	Frederick High School 	K-12 				39.416805	-77.42732
+2015-02-02	MN	Minnesota State University 	College 				44.146351	-93.998613
+2015-01-26	MN	Hand and Hand Montessori 	K-12 				45.004796	-93.17890600000001
+2015-01-23	SC	Royal Live Oaks Academy 	K-12 				32.297470000000004	-81.095988
+2015-01-20	AL	Williamson High School 	K-12 				30.669743	-88.074174
+2015-01-16	FL	Vanguard High School 	K-12 				29.217367	-82.137149
+2015-01-15	WI	Wisconson Lutheran High School 	K-12 				43.033728	-88.016388
+2014-12-17	PA	Sunnyside Elementary School 	K-12 				40.481059	-79.933611
+2014-12-17	ME	Benton Elementary School 	K-12 				44.589019	-69.57804200000001
+2014-12-05	OK	Rogers State University 	College 				36.318252	-95.640635
+2014-11-23	MD	St Johns College 	College 				38.981963	-76.491536
+2014-11-20	FL	Florida State University 	College 				30.441878000000003	-84.298489
+2014-10-24	WA	Marysville Pilchuck High School 	K-12 				48.096469	-122.154923
+2014-10-21	TN	A. Maceo Walker Middle School 	K-12 				35.03682	-90.000987
+2014-10-18	OK	Langston University 	College 				35.945962	-97.262907
+2014-10-13	TN	Tennessee State University 	College 				36.166821999999996	-86.82758199999999
+2014-10-08	NC	Elizabeth City State University 	College 				36.281065000000005	-76.21396
+2014-10-03	GA	Langston Hughes High School 	K-12 				33.61657	-84.633788
+2014-09-30	NC	Abermarle High school 	K-12 				35.371249	-80.192758
+2014-09-30	KY	Fern Creek High School 	K-12 				38.156145	-85.592745
+2014-09-29	IN	Indiana State University 	College 				39.470531	-87.410374
+2014-09-27	TN	Tennessee State University 	College 				36.166821999999996	-86.82758199999999
+2014-09-11	UT	Westbrook Elementary School 	K-12 				40.637701	-111.972921
+2014-09-10	FL	Greenwood Lakes Middle School 	K-12 				28.735746000000002	-81.340688
+2014-09-05	GA	Savannah State University 	College 				32.024521	-81.062637
+2014-09-02	ID	Idaho State University 	College 				42.862722999999995	-112.42971599999998
+2014-08-14	VA	Saunders Elementary 	K-12 				37.086806	-76.454432
+2014-08-13	MD	Heather Ridge High school 	K-12 				39.43627	-77.413024
+2014-06-27	FL	University of Miami 	College 				25.719169	-80.277125
+2014-06-23	MO	Kelly High School 	K-12 				37.045448	-89.474625
+2014-06-10	OR	Reynolds High School 	K-12 				45.528581	-122.40248400000002
+2014-06-05	WA	Seattle Pacific University 	College 				47.649581	-122.36153700000001
+2014-05-21	WI	Clarke Street School Playground 	K-12 				43.066315	-87.94935600000001
+2014-05-08	GA	Georgia Gwinnett College 	College 				33.979079999999996	-84.005416
+2014-05-08	KY	Georgetown College 	College 				38.207007	-84.554323
+2014-05-05	GA	Paine College 	College 				33.469555	-81.99325400000001
+2014-05-04	GA	Paine College 	College 				33.469555	-81.99325400000001
+2014-05-03	WA	Horizon Elementary 	K-12 				47.920589	-122.23693899999999
+2014-05-02	WI	Marquette University 	College 				43.038222	-87.929755
+2014-04-21	UT	Provo High School 	K-12 				40.247999	-111.659547
+2014-04-21	IN	St. Mary Catholic School 	K-12 				41.531422	-87.42690999999999
+2014-04-16	IA	Iowa Western Community College 	College 				41.272828999999994	-95.801108
+2014-04-11	MI	East English Village Preparatory Academy 	K-12 				42.408031	-82.929053
+2014-04-03	OH	Kent State University 	College 				41.149063	-81.341465
+2014-03-30	GA	Savannah State University 	College 				32.024521	-81.062637
+2014-03-23	DE	University of Delaware 	College 				39.67795	-75.75061099999999
+2014-03-08	WI	University of Wisconsin - Oshkosh 	College 				44.025319	-88.55102099999999
+2014-03-07	LA	Madison Parish High School 	K-12 				32.398281	-91.207432
+2014-03-02	MD	McDaniel College 	College 				39.582991	-77.00371899999999
+2014-02-20	MO	Raytown Success Academy 	K-12 				39.029548	-94.476674
+2014-02-12	TN	Union University 	College 				35.677378000000004	-88.85959100000001
+2014-02-11	OH	Charles F. Brush High School 	K-12 				41.522032	-81.505297
+2014-02-10	NC	Salisbury High School 	K-12 				35.664634	-80.48514
+2014-02-07	OR	Bend High School 	K-12 				44.052599	-121.295763
+2014-01-31	IA	North High School 	K-12 				41.617705	-93.623207
+2014-01-31	AZ	Cesar Chavez High School 	K-12 				33.375833	-112.145292
+2014-01-28	LA	Grambling State University 	College 				32.521291	-92.719296
+2014-01-28	TN	Tennessee State University 	College 				36.166821999999996	-86.82758199999999
+2014-01-24	SC	South Carolina State University 	College 				33.498344	-80.850149
+2014-01-21	IN	Purdue University 	College 				40.423705	-86.921195
+2014-01-20	PA	Widener University 	College 				39.863356	-75.356675
+2014-01-17	PA	Delaware Valley Charter High School 	K-12 				40.032961	-75.144631
+2014-01-15	PA	King Elementary School 	K-12 				40.034015999999994	-76.299557
+2014-01-14	NM	Berrendo Middle School 	K-12 				33.473034000000006	-104.51236899999999
+2014-01-09	TN	Liberty Technology Magnet High School 	K-12 				35.674849	-88.759997
+2013-12-19	CA	Edison High School 	K-12 				36.719865000000006	-119.80583899999999
+2013-12-13	CO	Arapahoe High School 	K-12 				39.581609	-104.962797
+2013-12-04	FL	West Orange High School 	K-12 				28.540662	-81.568427
+2013-11-21	SD	South Dakota School of Mines & Technology 	College 				44.07343	-103.206296
+2013-11-03	GA	Stephenson High School 	K-12 				33.774596	-84.124548
+2013-11-02	NC	North Carolina A&T State University 	K-12 				36.074129	-79.774838
+2013-11-01	IA	Algona High/Middle School 	K-12 				43.063484	-94.22355999999999
+2013-10-21	NV	Sparks Middle School 	K-12 				39.55199	-119.7683
+2013-10-15	TX	Lanier High School 	K-12 				30.360484999999997	-97.707898
+2013-10-04	FL	Agape Christian Academy 	K-12 				28.575084000000004	-81.475435
+2013-09-28	ME	Gray-New Gloucester High School 	K-12 				43.902928	-70.349919
+2013-09-21	GA	Savannah State University 	College 				32.024521	-81.062637
+2013-08-30	NC	Carver High School 	K-12 				36.134237	-80.207107
+2013-08-23	MS	North Panola High School 	K-12 				34.443024	-89.925031
+2013-08-22	TN	Westside Elementary School 	K-12 				35.216761	-90.03721800000001
+2013-08-20	GA	Ronald E. McNair Discovery Learning Academy 	K-12 				33.727219	-84.306962
+2013-08-15	TN	Northwest High School 	K-12 				36.574608000000005	-87.43380400000001
+2013-06-19	FL	Alexander W. Dreyfoos School of the Arts 	K-12 				26.708832	-80.061626
+2013-06-07	CA	Santa Monica College 	College 				34.017022999999995	-118.469755
+2013-05-03	MS	University of Southern Mississippi 	College 				31.330012	-89.33404200000001
+2013-04-29	OH	La Salle High School 	K-12 				39.189096	-84.586614
+2013-04-16	AL	Stillman College 	College 				33.198265	-87.585922
+2013-04-15	LA	Grambling State University 	College 				32.521291	-92.719296
+2013-04-13	NC	Elizabeth City State University 	College 				36.281065000000005	-76.21396
+2013-04-12	VA	New River Community College 	College 				37.165675	-80.427552
+2013-03-21	MI	Davidson Middle School 	K-12 				42.192549	-83.194443
+2013-03-18	FL	University of Central Florida 	College 				28.602427000000002	-81.20006
+2013-02-27	GA	Henry W. Grady High School 	K-12 				33.780552	-84.371421
+2013-02-13	CA	Hillside Elementary School 	K-12 				37.701747	-122.116367
+2013-02-01	GA	Morehouse College 	College 				33.745955	-84.413865
+2013-01-31	GA	Price Middle School 	K-12 				33.708962	-84.38749399999999
+2013-01-22	TX	Lone Star College North Harris Campus 	College 				30.007138	-95.379703
+2013-01-16	IL	Chicago State University 	College 				41.717958	-87.609374
+2013-01-15	KY	Hazard Community and Technical College 	College 				37.234696	-83.175954
+2013-01-15	MO	Stevens Institute of Business & Arts 	College 				38.632973	-90.201098
+2013-01-10	CA	Taft Union High School 	K-12 				35.146303	-119.460509
+2013-01-08	FL	Apostolic Revival Center Christian School 	K-12 				26.640190999999998	-81.83450500000001

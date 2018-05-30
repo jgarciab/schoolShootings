@@ -1,0 +1,258 @@
+08 27 1990;1;1;1;1990;Targeted;1;Eldorado High;High;Las Vegas;NV;Suburb;Current Student;M;15;0;38.7326807;-120.8118798
+10 09 1991;1;1;1;1991;Targeted;1;James Monroe;High;Bronx;NY;City;Current Student;M;;0;43.146905;-77.598189
+04 23 1991;5;1;2;1991;Other;1;Ralph J. Bunche Middle;Middle;Compton;CA;City;Unknown;M;;0;33.92167;-118.22814
+11 01 1991;9;1;3;1991;Targeted;5;University of Iowa;College;Iowa City;IA;City;Current Student;M;28;1;41.6616832;-91.5362795
+10 12 1992;1;1;1;1992;Targeted;1;Desert View;High;Tucson;AZ;City;Unknown;M;20;0;33.5625415;-112.0687607
+11 20 1992;2.5;16;2;1992;Other;1;Edward Tilden;High;chicago;IL;City;Current Student;M;15;0;41.8075335;-87.6422731
+11 16 1992;4;1;3;1992;Targeted;1;Fairfield;High;Birmingham;AL;Suburb;Unknown;;;0;33.4906623;-86.9080477
+01 13 1992;5.5;16;4;1992;Targeted;1;Langham Creek;High;Houston;TX;Suburb;Employee;M;39;1;29.8791145;-95.6732795
+05 01 1992;7;1;5;1992;Targeted;4;Lindhurst;High;Olivehurst;CA;Suburb;Past Student;M;20;0;39.0843374;-121.5357962
+10 06 1992;8.5;16;6;1992;Targeted;1;Northbrook;High;Houston;TX;City;Current Student;M;15;0;29.8160604;-95.5310535
+12 14 1992;10;1;7;1992;Random;2;Simon's Rock College of Bard;College;Great Barrington;MA;Rural;Current Student;M;18;0;42.20985;-73.386391
+12 03 1992;11.5;16;8;1992;Targeted;1;Woodson;Elementary;chicago;IL;City;Unknown;;;0;41.8142004;-87.608661
+02 01 1993;1;1;1;1993;Targeted;1;Amityville;High;Amityville;NY;Suburb;Current Student;M;17;0;40.6703784;-73.4117894
+11 05 1993;1.3428571429;11;2;1993;Other;1;Bay Springs;High;bay springs;MS;Rural;Unknown;;;0;31.9779313;-89.2783951
+12 08 1993;1.6857142857;22;3;1993;Targeted;1;Beach;High;savannah;GA;City;Unknown;M;16;0;32.0533728;-81.116455
+05 21 1993;2.0285714286;2;4;1993;Other;1;Boston;High;boston;MA;City;Unknown;;;0;42.3484309;-71.06894
+02 26 1993;2.3714285714;12;5;1993;Targeted;1;Century;High;santa ana;CA;City;Unknown;M;19;0;33.727796;-117.8495001
+12 16 1993;2.7142857143;22;6;1993;Targeted;1;Chelsea;High;Chelsea;MI;Town;Teacher;M;;0;42.312898;-84.0059
+02 24 1993;3.0571428571;3;7;1993;Other;1;Cleveland;High;reseda;CA;City;Current Student;;;0;33.8441824;-118.1067328
+01 18 1993;3.4;13;8;1993;Targeted;2;East Carter;High;Grayson;KY;Town;Current Student;M;17;0;38.326259;-82.930504
+01 21 1993;3.7428571429;23;9;1993;Other;1;Fairfax;High;los angeles;CA;City;Current Student;;;0;34.0827872;-118.3595219
+04 15 1993;4.0857142857;4;10;1993;Random;1;Ford;Middle;acushnet;MA;Suburb;Unknown;M;42;0;41.7234365;-70.9058722
+04 03 1993;4.4285714286;14;11;1993;Other;1;Grant;High;sacramento;CA;City;Unknown;;;0;38.6357374;-121.4349538
+04 16 1993;4.7714285714;24;12;1993;Other;1;Grant;High;sacramento;CA;City;Unknown;;;0;38.6357374;-121.4349538
+03 18 1993;5.1142857143;4;13;1993;Targeted;1;Harlem;High;Harlem;GA;Rural;Current Student;M;15;0;33.4654153;-82.3120681
+08 31 1993;5.4571428571;15;14;1993;Targeted;1;Harper;High;atlanta;GA;City;Current Student;M;;0;30.8304705;-83.9835031
+02 18 1993;5.8;25;15;1993;Targeted;1;Kimball;High;dallas;TX;City;Current Student;M;21;0;32.6992988;-96.8775028
+04 26 1993;6.1428571429;5;16;1993;Other;1;Millbrook;High;raleigh;NC;City;Unknown;M;20;0;35.8657062;-78.6038915
+11 04 1993;6.4857142857;16;17;1993;Targeted;1;New Britain;High;new britain;CT;Suburb;Unknown;M;;0;41.6506548;-72.7778752
+05 27 1993;6.8285714286;26;18;1993;Targeted;1;Nicholls;High;New Orleans;LA;City;Current Student;M;;0;29.7944154;-90.8015178
+04 14 1993;7.1714285714;6;19;1993;Targeted;1;Nimitz;High;irving;TX;City;Current Student;M;17;0;32.7940183;-96.9472277
+01 12 1993;7.5142857143;16;20;1993;Targeted;1;Norland;High;miami;FL;Suburb;Current Student;;;0;25.9520372;-80.2192147
+02 04 1993;7.8571428571;27;21;1993;Targeted;1;North Clayton;High;clayton county;GA;Suburb;Past Student;M;17;0;33.6095549;-84.4396495
+01 08 1993;8.2;7;22;1993;Other;1;Pequea Valley;High;leola;PA;Rural;Current Student;;15;0;40.0209343;-76.0663412
+10 14 1993;8.5428571429;17;23;1993;Other;1;Redford;High;detroit;MI;City;Unknown;;;0;42.4136473;-83.2532626
+02 22 1993;8.8857142857;28;24;1993;Targeted;1;Reseda;High;Los Angeles;CA;City;Current Student;M;15;0;34.1894492;-118.5300849
+11 11 1993;9.2285714286;8;25;1993;Targeted;1;Ridgely;Elementary;Springfield;IL;City;Unknown;;;0;39.827873;-89.644594
+09 02 1993;9.5714285714;18;26;1993;Targeted;1;Roosevelt;High;dallas;TX;City;Current Student;;;0;32.7426304;-96.7947233
+03 11 1993;9.9142857143;28;27;1993;Targeted;1;Southeastern;High;detroit;MI;City;Student at Different School;;16;0;42.3747599;-82.979085
+11 01 1993;10.2571428571;9;28;1993;Targeted;1;Sullivan;High;chicago;IL;City;Current Student;M;15;0;42.0028094;-87.668946
+03 25 1993;10.6;19;29;1993;Targeted;1;Sumner;High;st. louis;MO;City;Ex-girlfriend of Student;F;19;0;38.6594956;-90.2395567
+11 04 1993;10.9428571429;29;30;1993;Targeted;1;Terry Parker;High;jacksonville;FL;City;Unknown;M;19;0;30.3421841;-81.5753699
+05 24 1993;11.2857142857;10;31;1993;Targeted;1;Upper Perkiomen;High;red hill;PA;Rural;Current Student;M;15;0;40.380933;-75.4899023
+02 08 1993;11.6285714286;20;32;1993;Targeted;1;Washington-Dix;High;dc;DC;City;Unknown;;;0;38.909312;-76.9939887
+12 01 1993;11.9714285714;30;33;1993;Targeted;1;Wauwatosa West;High;Wauwatosa;WI;Suburb;Past Student;M;21;0;43.068783;-88.056171
+09 25 1993;12.3142857143;10;34;1993;Other;2;Weatherless;Elementary;dc;DC;City;Unknown;M;19;0;38.88667;-76.945
+07 08 1993;12.6571428571;21;35;1993;Targeted;1;Weber State;College;Ogden;UT;Suburb;Current Student;M;28;0;41.1935551;-111.9441075
+03 23 1994;1;1;1;1994;Other;1;Ballard;High;Seattle;WA;City;Current Student;M;19;0;47.6766886;-122.3754977
+02 14 1994;1.6315789474;20;2;1994;Targeted;1;Carlmont;High;belmont;CA;Suburb;Current Student;M;15;0;37.5063263;-122.2908014
+01 26 1994;2.2631578947;9;3;1994;Targeted;1;Eau Claire;High;columbia;SC;City;Current Student;M;18;0;34.048209;-81.0423141
+04 19 1994;2.8947368421;28;4;1994;Other;1;Eliot;Middle;dc;DC;City;Unknown;;;0;38.89265;-76.97901
+03 15 1994;3.5263157895;17;5;1994;Other;1;Goose Creek;High;charleston;SC;Suburb;Current Student;;;0;32.9732358;-80.0167155
+09 07 1994;4.1578947368;6;6;1994;Targeted;1;Hollywood;High;Hollywood (Los Angeles);CA;City;Unknown;;;0;34.0988979;-118.3400772
+04 21 1994;4.7894736842;25;7;1994;Other;1;John Trotwood Moore;Middle;nashville;TN;City;Current Student;M;14;0;36.0956145;-86.8030551
+02 07 1994;5.4210526316;14;8;1994;Targeted;1;Lee County;K12;ft myers;FL;City;Teacher;M;48;1;26.597478;-81.853328
+01 20 1994;6.0526315789;3;9;1994;Other;1;Los Altos;High;hacienda heights;CA;Suburb;Unknown;;;0;34.0077895;-117.9770093
+07 24 1994;6.6842105263;22;10;1994;Targeted;1;Manchester;Elementary;manchester;PA;City;Unknown;M;15;0;40.4567357;-80.0286652
+04 12 1994;7.3157894737;10;11;1994;Other;1;Margaret Leary;Elementary;butte;MT;Town;Current Student;M;10;0;45.9610375;-112.52141
+05 02 1994;7.9473684211;29;12;1994;Other;1;North Miami;High;north miami;FL;Suburb;Current Student;M;18;0;25.9003723;-80.1817136
+02 08 1994;8.5789473684;18;13;1994;Other;1;Osborn;High;detroit;MI;City;Unknown;;;0;42.433648;-83.0035318
+07 25 1994;9.2105263158;7;14;1994;Targeted;1;Ottumwa;High;ottumwa;IA;Town;Current Student;M;16;0;41.0150146;-92.4054628
+11 05 1994;9.8421052632;26;15;1994;Other;1;Thomas Jefferson;Elementary;San Leandro;CA;City;Unknown;M;14;0;34.1697286;-118.2867429
+02 15 1994;10.4736842105;15;16;1994;Targeted;1;Wallenberg;High;san francisco;CA;City;Current Student;;;0;37.7804851;-122.4460825
+01 27 1994;11.1052631579;4;17;1994;Other;1;Washington;Elementary;san jose;CA;City;Unknown;;;0;37.3424415;-121.9405127
+01 31 1994;11.7368421053;23;18;1994;Targeted;1;Whitman;Middle;Seattle;WA;City;Past Student;M;24;0;47.6968215;-122.3776531
+11 07 1994;12.3684210526;12;19;1994;Targeted;1;Wickliffe;Middle;Wickliffe;OH;Suburb;Past Student;M;37;0;41.6050489;-81.4740062
+10 12 1995;1;1;1;1995;Targeted;1;blackville-hilda;High;Blackville;SC;Rural;Current Student;M;16;1;33.363763;-81.2637162
+01 05 1995;2.0909090909;4;2;1995;Targeted;1;Cardozo;High;DC;DC;City;Current Student;M;14;0;38.92185;-77.02834
+09 12 1995;3.1818181818;6;3;1995;Targeted;1;cypress;Middle;memphis;TN;City;Current Student;M;15;0;35.1670336;-89.9881452
+02 02 1995;4.2727272727;9;4;1995;Targeted;1;jordan;High;long beach;CA;City;Unknown;;16;0;33.8711271;-118.1853473
+08 29 1995;5.3636363636;12;5;1995;Other;1;memorial;Middle;Laredo;TX;City;Current Student;M;12;0;27.5144624;-99.4939305
+09 14 1995;6.4545454545;15;6;1995;Random;2;olathe north;High;olathe;KS;Suburb;Student at Different School;M;17;0;38.8879635;-94.8089834
+12 14 1995;7.5454545455;17;7;1995;Targeted;1;oxon hill;High;dc;MD;Suburb;Unknown;;;0;38.7978914;-76.9935864
+11 15 1995;8.6363636364;20;8;1995;Targeted;2;Richland High;High;Lynnville;TN;Rural;Current Student;M;17;0;35.3767432;-87.0019502
+09 30 1995;9.7272727273;23;9;1995;Targeted;1;tavares;Middle;tavares;FL;Suburb;Current Student;M;14;0;28.7711111;-81.7411111
+11 28 1995;10.8181818182;26;10;1995;Targeted;1;thomas A. edison vocational and technical;High;queens;NY;City;Unknown;;;0;40.7164916;-73.7987448
+01 26 1995;11.9090909091;28;11;1995;Random;2;University of North Carolina;College;Chapel Hill;NC;City;Current Student;M;;0;35.9101442;-79.0486221
+02 29 1996;1;1;1;1996;Targeted;2;beaumont;High;st louis;MO;City;Unknown;M;;0;38.662551;-90.2220561
+09 25 1996;1.8;25;2;1996;Random;1;dekalb alternative;High;Scottdale;GA;Suburb;Current Student;M;16;0;33.7992;-84.2011
+01 26 1996;2.6;19;3;1996;Targeted;1;east;High;memphis;TN;City;Unknown;;;0;35.1320343;-89.9539779
+02 02 1996;3.4;13;4;1996;Targeted;3;frontier;Middle;Moses Lake;WA;Town;Current Student;M;14;0;47.1268083;-119.2830774
+11 27 1996;4.2;7;5;1996;Other;1;highlands;High;sacramento;CA;Suburb;Police Officer;;;0;38.6879585;-121.3588409
+10 09 1996;5;1;6;1996;Targeted;1;jacksonville;High;sherwood;AR;Suburb;Current Student;M;14;0;34.8881491;-92.1023659
+02 22 1996;5.8;25;7;1996;Targeted;1;jenkins;High;savannah;GA;City;Current Student;M;15;0;32.0224784;-81.0829082
+01 19 1996;6.6;19;8;1996;Other;1;martha a winston educational center;High;dc;DC;City;Unknown;;;0;38.8576;-76.9629
+09 18 1996;7.4;13;9;1996;Random;1;Penn State;College;University Park;PA;City;Unknown;F;19;0;40.5400689;-78.4086255
+01 22 1996;8.2;7;10;1996;Targeted;1;Purdue University;College;West Lafayette;IN;Suburb;Current Student;M;19;1;40.4280908;-86.9225102
+08 15 1996;9;1;11;1996;Targeted;3;San Diego State;College;San Diego;CA;City;Current Student;M;36;0;32.7753498;-117.0722245
+10 02 1996;9.8;25;12;1996;Targeted;2;smedley;Elementary;philadelphia;PA;City;Parent of Student;M;25;0;40.0195564;-75.0737845
+10 04 1996;10.6;19;13;1996;Random;1;st. bernard;High;playa del rey;CA;City;Student at Different School;M;17;0;33.954179;-118.4336885
+10 13 1996;11.4;13;14;1996;Targeted;1;sumner;High;st louis;MO;City;Current Student;M;15;0;38.6594956;-90.2395567
+04 11 1996;12.2;7;15;1996;Targeted;1;talladega;High;Talladega;AL;Town;Current Student;M;16;0;33.4228865;-86.0766373
+01 08 1997;1;1;1;1997;Targeted;1;a crown hieghts (Wingate High);High;brooklyn;NY;City;Student at Different School;;;0;41.6373158;-73.9379152
+02 19 1997;2.3333333333;11;2;1997;Targeted;2;Bethel Regional;High;Bethel;AK;Rural;Current Student;M;16;0;60.794289;-161.760864
+01 31 1997;3.6666666667;21;3;1997;Targeted;1;Bunche early childhood development center;K12;tulsa;OK;City;Grandfather of Student;M;;0;36.1937039;-95.9611069
+01 27 1997;5;1;4;1997;Targeted;1;conniston;Middle;West Palm Beach;FL;City;Current Student;M;13;0;26.6772882;-80.0614305
+11 13 1997;6.3333333333;11;5;1997;Targeted;1;creekside;Elementary;sacramento;CA;;Unknown;M;33;0;38.6126825;-121.3943971
+12 01 1997;7.6666666667;21;6;1997;Random;3;Heath;High;West Paducah;KY;Rural;Current Student;M;14;0;37.0786654;-88.7933892
+10 22 1997;9;1;7;1997;Targeted;1;john glenn;High;Norwalk;CA;Suburb;Past Student;M;21;1;33.9086252;-118.0542321
+10 01 1997;10.3333333333;11;8;1997;Random;3;Pearl;High;Pearl;MS;Suburb;Current Student;M;16;0;32.2754245;-90.1314756
+03 17 1997;11.6666666667;21;9;1997;Targeted;1;pershing;High;detroit;MI;City;Student at Different School;;;0;42.4322589;-83.064645
+09 12 1998;1;1;1;1998;Targeted;1;herbert hoover;High;glendale;CA;City;Current Student;;17;0;34.1666733;-118.2703534
+05 19 1998;2.0909090909;4;2;1998;Targeted;1;Lincoln County;High;Fayetteville;TN;Town;Current Student;;;0;35.1353605;-86.5683284
+04 24 1998;3.1818181818;6;3;1998;Other;1;parker;Middle;edinboro;PA;Rural;Current Student;M;14;0;41.9150556;-80.1206121
+04 28 1998;4.2727272727;9;4;1998;Targeted;2;philidelphia;Elementary;pomona;CA;City;Unknown;;14;0;34.0327894;-117.7442233
+05 01 1998;5.3636363636;12;5;1998;Targeted;1;public school 18;K12;buffalo;NY;City;Parent of Student;M;37;0;42.9108909;-78.8969809
+08 03 1998;6.4545454545;15;6;1998;Targeted;1;san bernardino valley college;college;San Bernardino;CA;City;Employee;M;50;1;34.0871826;-117.3106465
+01 13 1998;7.5454545455;17;7;1998;Targeted;1;spingarn;High;dc;DC;City;Current Student;M;17;0;38.902;-76.9719
+05 29 1998;8.6363636364;20;8;1998;Targeted;1;stranahan;High;ft. lauderdale;FL;City;Ex-boyfriend of Employee;M;29;1;26.1117534;-80.165046
+05 21 1998;9.7272727273;23;9;1998;Random;4;Thurston High;High;Springfield;OR;City;Current Student;M;15;0;44.0491667;-122.9247222
+05 27 1998;10.8181818182;26;10;1998;Targeted;1;washington;Middle;pasadena;CA;City;Unknown;;;0;34.1716728;-118.1470157
+03 24 1998;11.9090909091;28;11;1998;Targeted;5;westside;Middle;Jonesboro;AR;Rural;Current Student;M;13;0;35.8568828;-90.8058559
+04 20 1999;1;1;1;1999;Random;13;columbine;High;Littleton;CO;Suburb;Current Student;M;17;1;39.6041546;-105.0738739
+11 19 1999;5;1;2;1999;Other;1;Deming;Middle;deming;NM;Town;Current Student;M;13;0;32.2686981;-107.7586404
+02 11 1999;9;1;3;1999;Targeted;1;ombudsman educational center;High;Elgin;IL;City;Current Student;M;15;0;42.069096;-88.28793
+03 10 2000;1;1;1;2000;Random;2;Beach High;High;savannah;GA;City;Student at Different School;M;19;0;32.0533728;-81.116455
+09 05 2000;2.2;7;2;2000;Targeted;1;bidwell porter;Elementary;Bidwell;OH;Rural;Husband of School Employee;M;66;1;38.9236892;-82.2893174
+02 29 2000;3.4;13;3;2000;Targeted;1;Buell Elementary;Elementary;flint;MI;Suburb;Current Student;M;6;0;43.0803045;-83.7055136
+10 26 2000;4.6;19;4;2000;Targeted;2;bushwick;High;Brooklyn;NY;City;Current Student;;;0;40.6970473;-73.9118035
+05 26 2000;5.8;25;5;2000;Targeted;1;Lake Worth Middle;Middle;Lake Worth;FL;Suburb;Current Student;M;13;0;26.6114572;-80.0653196
+12 19 2000;7;1;6;2000;Targeted;1;miami ?;Elementary;miami;FL;;Unknown;;;0;25.774811;-80.197731
+01 19 2000;8.2;7;7;2000;Other;1;ridgewood;High;new port richey;FL;Suburb;Current Student;M;;0;28.2722309;-82.6789887
+08 28 2000;9.4;13;8;2000;Targeted;1;university of arkansas;College;Fayetteville;AR;City;Current Student;M;37;1;36.0686906;-94.172149
+06 28 2000;10.6;19;9;2000;Targeted;1;university of washington medical center;College;Seattle;WA;City;Employee;M;42;1;47.6493;-122.3076
+10 23 2000;11.8;25;10;2000;Other;1;western academy community education center;High;los angeles;CA;Suburb;Unknown;;;0;34.05349;-118.245323
+04 25 2001;1;1;1;2001;Other;1;john marshall;High;cleveland;OH;City;Unknown;;;0;41.4467165;-81.7918011
+03 30 2001;3.4;13;2;2001;Targeted;1;lew wallace high;High;gary;IN;City;Past Student;M;17;0;41.5358697;-87.3422593
+06 07 2001;5.8;25;3;2001;Other;1;ousley;Middle;arlington;TX;City;Police Officer;;;0;32.7345759;-97.113899
+05 18 2001;8.2;7;4;2001;Targeted;1;pacific lutheran university;College;Pierce County;WA;Suburb;Unknown;M;55;1;47.1459323;-122.4423446
+03 05 2001;10.6;19;5;2001;Random;2;santana high;High;Santee;CA;Suburb;Current Student;M;15;0;32.8572712;-116.9697502
+07 26 2002;1;1;1;2002;Targeted;1;coulwood;Middle;charlotte;NC;City;Current Student;M;17;0;35.3045838;-80.9453513
+11 07 2002;4;1;2;2002;Targeted;1;st. james;K12;liberty;MO;Suburb;Parent of Student;M;;0;39.2502805;-94.4191176
+10 29 2002;7;1;3;2002;Targeted;3;University of Arizona Nursing College;College;tucson;AZ;City;Current Student;M;41;1;32.2409091;-110.9628694
+01 16 2002;10;1;4;2002;Targeted;3;Virginia's Appalachian School of Law;College;grundy;VA;Rural;Current Student;M;43;0;37.27676;-82.095039
+10 30 2003;1;1;1;2003;Other;1;anacostia;High;dc;DC;City;Unknown;;;0;38.86987;-76.98298
+11 05 2003;2.0909090909;4;2;2003;Other;1;balboa;High;san francisco;CA;City;Student at Different School;;16;0;37.7215983;-122.441916
+05 09 2003;3.1818181818;6;3;2003;Targeted;1;case western reserve university;college;cleveland;OH;City;Current Student;M;62;0;41.505901;-81.609093
+04 15 2003;4.2727272727;9;4;2003;Other;1;city inc.;High;minneapolis;MN;City;Unknown;;;0;44.9416485;-93.2610949
+11 07 2003;5.3636363636;12;5;2003;Other;1;hightower;High;sugar land;TX;Suburb;Unknown;M;21;0;29.5308507;-95.4982776
+04 14 2003;6.4545454545;15;6;2003;Targeted;1;john mcdonogh;High;New Orleans;LA;City;Unknown;M;;0;29.9743356;-90.0765516
+11 10 2003;7.5454545455;17;7;2003;Other;1;martin luther king;Elementary;buffalo;NY;City;Unknown;;;0;42.9581134;-78.8028114
+10 23 2003;8.6363636364;20;8;2003;Other;1;matthew henson;Elementary;landover;MD;City;Unknown;;;0;38.9215005;-76.8691389
+09 05 2003;9.7272727273;23;9;2003;Targeted;1;point loma;High;san diego;CA;City;Parent of Student;M;58;1;32.7394945;-117.2322584
+04 24 2003;10.8181818182;26;10;2003;Targeted;1;Red Lion Area Junior High;High;red lion;PA;Suburb;Current Student;M;14;1;39.897878;-76.604689
+09 24 2003;11.9090909091;28;11;2003;Targeted;2;Rocori High School;High;Cold Spring;MN;Rural;Current Student;M;15;0;45.4633333;-94.4283333
+08 19 2003;12;1;12;2003;Random;1;unknown meraux LA bus stopp;K12;meraux;LA;Suburb;Unknown;M;;0;29.9329817;-89.9497901
+02 02 2004;1;1;1;2004;Targeted;1;Ballou;High;DC;DC;City;Current Student;M;18;0;38.84018;-77.00135
+01 21 2004;3;1;2;2004;Targeted;1;Galloway;Elementary;henderson;NV;Suburb;Ex-boyfriend of Parent of Student;M;40;0;36.0080329;-114.9799912
+08 30 2004;5;1;3;2004;Other;1;proviso east;High;maywood;IL;Suburb;Current Student;M;17;0;41.880309;-87.8331152
+06 01 2004;7;1;4;2004;Targeted;1;st. croix;High;st. croix;US Virgin Island;Town;Current Student;M;17;0;17.7413621;-64.7098649
+02 11 2004;9;1;5;2004;Other;1;thomas m. peirce;Elementary;philadelphia;PA;City;Unknown;;;0;39.998899;-75.168706
+05 24 2004;11;1;6;2004;Targeted;1;west;High;salt lake city;UT;City;Husband of School Employee;M;52;1;40.7743569;-111.8993757
+11 09 2005;1;1;1;2005;Targeted;1;Campbell County High School;High;jacksboro;TN;Rural;Current Student;M;15;0;36.4000794;-84.1332593
+05 17 2005;4;1;2;2005;Targeted;1;highland;Elementary;lower allen township;PA;Suburb;Boyfriend of Parent of Student;M;47;1;40.2306456;-76.898307
+03 21 2005;7;1;3;2005;Random;9;Red Lake Middle School;High;red lake;MN;Rural;Past Student;M;16;1;48.155022;-95.102205
+03 02 2005;10;1;4;2005;Targeted;1;stewart country schools;nan;cumberland city;TN;Rural;Current Student;M;14;0;36.485329;-87.8300231
+10 02 2006;1;1;1;2006;Random;5;Amish Schoolhouse;Elementary;lancaster county;PA;Rural;Unknown;M;32;1;39.9539915;-76.0807861
+10 29 2006;2.3333333333;11;2;2006;Targeted;1;birney;Elementary;fresno;CA;City;Unknown;M;;0;36.7771715;-119.7743112
+08 25 2006;3.6666666667;21;3;2006;Targeted;2;Essex Elementary School;Elementary;essex;VT;Rural;Ex-boyfriend of Employee;M;27;0;44.5129267;-73.0557086
+12 26 2006;5;1;4;2006;Random;3;orange;High;hillsborough;NC;Rural;Past Student;M;19;0;36.0926405;-79.0947347
+01 13 2006;6.3333333333;11;5;2006;Targeted;1;pinson valley;High;Birmingham;AL;Rural;Student at Different School;M;20;0;33.7037127;-86.6686005
+09 27 2006;7.6666666667;21;6;2006;Random;1;Platte Canyon High;High;bailey;CO;Rural;Unknown;M;53;1;39.455607;-105.646994
+09 03 2006;9;1;7;2006;Targeted;2;Sheperd University;College;shepherdstown;WV;Town;Unknown;M;49;1;39.4337106;-77.804161
+06 05 2006;10.3333333333;11;8;2006;Targeted;1;venice;High;los angeles;CA;City;Unknown;M;21;0;33.9975113;-118.4453562
+09 29 2006;11.6666666667;21;9;2006;Targeted;1;Weston High School;High;cazenovia;WI;Rural;Current Student;M;15;0;43.4805359;-90.1901266
+09 21 2007;1;1;1;2007;Other;1;delaware state;College;dover;DE;City;Current Student;M;18;0;39.6795559;-75.7529906
+01 04 2007;2.5;16;2;2007;Targeted;1;Henry Foss High School;High;tacoma;WA;City;Current Student;M;18;0;47.242077;-122.494171
+12 21 2007;4;1;3;2007;Targeted;1;james logan;High;union city;CA;Suburb;Unknown;;;0;37.5921569;-122.0257949
+08 05 2007;5.5;16;4;2007;Targeted;3;mount vernon;Elementary;newark;NJ;City;Unknown;M;28;0;40.7373233;-74.2451466
+09 30 2007;7;1;5;2007;Targeted;1;university of memphis;College;memphis;TN;City;Current Student;M;20;0;35.1187013;-89.9373109
+04 02 2007;8.5;16;6;2007;Targeted;1;university of washington;College;seattle;WA;City;Boyfriend of School Employee;M;41;1;47.6560988;-122.3105485
+04 16 2007;10;1;7;2007;Random;32;Virginia Tech;College;College;blacksburg;VA;City;Current Student;M;23;37.2283333;-80.4180556
+12 09 2007;11.5;16;8;2007;Random;4;ywam missonary center and new life church;High;arvada;CO;Suburb;Past Student;M;24;1;39.81004;-105.140785
+08 21 2008;1;1;1;2008;Targeted;1;central;High;knoxville;TN;City;Current Student;M;15;0;36.0409152;-83.9257414
+03 03 2008;2.3333333333;11;2;2008;Targeted;1;Crane Tech High;High;chicago;IL;City;Current Student;M;15;0;41.9344766;-87.6825558
+11 12 2008;3.6666666667;21;3;2008;Targeted;1;dillard;High;ft. lauderdale;FL;City;Current Student;F;15;0;26.1389746;-80.1753241
+02 14 2008;5;1;4;2008;Targeted;1;E.O. Green;Middle;oxnard;CA;City;Current Student;M;14;0;34.1647273;-119.1820515
+02 08 2008;6.3333333333;11;5;2008;Random;2;louisiana technical college;College;baton rouge;LA;City;Current Student;F;23;1;30.4774164;-91.1553938
+10 13 2008;7.6666666667;21;6;2008;Targeted;1;NE Lakeview community college;College;san antonio;TX;Suburb;Employee;M;62;0;29.42458;-98.494614
+02 14 2008;9;1;7;2008;Random;5;northern illinois university;College;dekalb;IL;Suburb;Past Student;M;27;1;41.9375291;-88.7759213
+03 29 2008;10.3333333333;11;8;2008;Other;1;simeon career academy;High;chicago;IL;City;Unknown;;17;0;41.7447563;-87.6344934
+10 26 2008;11.6666666667;21;9;2008;Targeted;2;university of central arkansas;College;conway;AR;Town;Unknown;M;19;0;35.0792521;-92.4571016
+06 24 2009;1;1;1;2009;Targeted;1;aplington-parkersburg;High;parkersburg;IA;Rural;Past Student;M;24;0;42.5730354;-92.77853
+01 23 2009;1.9230769231;29;2;2009;Targeted;1;cahokia;High;cahokia;IL;Suburb;Unknown;M;21;0;38.5653292;-90.1648327
+10 16 2009;2.8461538462;26;3;2009;Other;1;carolina forest;High;carolina forest;SC;Rural;Police Officer;;;0;33.7781709;-78.9715137
+09 03 2009;3.7692307692;24;4;2009;Other;1;Clark Atlanta;College;altanta;GA;City;Student at Different School;;;0;33.7453845;-84.4099276
+03 09 2009;4.6923076923;22;5;2009;Other;1;fort pierce westwood;High;ft pierce;FL;Suburb;Unknown;;;0;27.4614273;-80.3719957
+05 18 2009;5.6153846154;19;6;2009;Targeted;1;harvard university;College;cambridge;MA;City;Unknown;M;20;0;42.3784302;-71.1164415
+04 10 2009;6.5384615385;17;7;2009;Targeted;1;henry ford community college;College;dearborn;MI;Suburb;Current Student;M;28;1;42.3239264;-83.2357613
+06 09 2009;7.4615384615;15;8;2009;Targeted;1;Leestown Middle;Middle;lexington;KY;City;Employee;M;27;0;38.0720211;-84.5341069
+09 11 2009;8.3846153846;13;9;2009;Targeted;2;owosso;High;owosso;MI;Rural;Unknown;M;33;0;43.012263;-84.160997
+04 02 2009;9.3076923077;10;10;2009;Targeted;1;radford university;College;radford;VA;Town;Employee;M;22;0;37.1390153;-80.5495015
+02 07 2009;10.2307692308;8;11;2009;Targeted;1;university of houston;College;houston;TX;City;Current Student;M;32;0;29.720507;-95.3435488
+05 06 2009;11.1538461538;6;12;2009;Targeted;1;weslayan university;College;middletown;CT;City;Unknown;M;29;0;41.5556542;-72.655649
+10 30 2009;12.0769230769;3;13;2009;Other;1;wilson;High;long beach;CA;City;Unknown;M;16;0;33.9986232;-117.947286
+10 01 2010;1;1;1;2010;Targeted;1;alisal;High;salinas;CA;City;Unknown;;;0;36.6846819;-121.6004996
+02 26 2010;2.5;16;2;2010;Targeted;1;birney;Elementary;tacoma;WA;City;Stalker of a School Employee;M;30;0;47.1878768;-122.450401
+02 05 2010;4;1;3;2010;Other;1;discovery;Middle;madison;AL;Suburb;Current Student;M;14;0;34.740964;-86.741168
+01 20 2010;5.5;16;4;2010;Targeted;1;livingstone;High;livingston;AL;Rural;Husband of School Employee;M;32;0;32.5856914;-88.1872476
+10 03 2010;7;1;5;2010;Targeted;1;mid-atlantic christian university;College;elizabeth city;NC;Town;Police Officer;M;23;0;36.304554;-76.217087
+03 09 2010;8.5;16;6;2010;Targeted;1;ohio state university;College;columbus;OH;City;Employee;M;51;1;39.9961755;-83.018795
+10 24 2010;10;1;7;2010;Other;1;topeka west;High;topeka;KS;City;Unknown;M;21;0;39.0315616;-95.7459347
+02 12 2010;11.5;16;8;2010;Targeted;3;university of alabama;College;huntsville;AL;City;Teacher;F;44;0;33.2151183;-87.5466729
+02 23 2011;1;1;1;2011;Targeted;1;Coast Career Institue;College;LA;CA;City;Current Student;M;22;0;34.036453;-118.262688
+02 02 2011;2.7142857143;22;2;2011;Targeted;1;Louisiana Schnell Elementary School;Elementary;placerville;CA;Town;Employee;M;17;0;38.7351808;-120.7768784
+01 05 2011;4.4285714286;14;3;2011;Targeted;1;millard south;High;omaha;NE;City;Current Student;M;44;1;41.2041657;-96.1466863
+04 06 2011;6.1428571429;5;4;2011;Targeted;1;southern union community college;College;opelika;AL;Rural;Unknown;M;34;0;33.1276199;-85.5716212
+12 08 2011;7.8571428571;27;5;2011;Other;1;Virginia Tech;College;blacksburg;VA;City;Student at Different School;M;22;1;37.2283333;-80.4180556
+03 31 2011;9.5714285714;18;6;2011;Targeted;1;worthing high;High;houston;TX;City;Unknown;;;0;29.6574534;-95.366883
+02 06 2011;11.2857142857;10;7;2011;Random;1;youngstown university;College;youngtown;OH;City;Unknown;M;22;0;41.1042248;-80.6470194
+02 27 2012;1;1;1;2012;Targeted;3;Chardon High;High;Chardon;OH;Town;Current Student;M;17;0;41.5914386;-81.2001012
+03 06 2012;3.4;13;2;2012;Targeted;1;episcopal high;High;jacksonville;FL;City;Teacher;;;0;30.3071841;-81.6400945
+03 24 2012;5.8;25;3;2012;Targeted;1;mississippi state;College;starkville;MS;Town;Unknown;;;0;33.454844;-88.7886639
+04 02 2012;8.2;7;4;2012;Random;7;Oikos;College;Oakland;CA;City;Past Student;M;43;0;37.741001;-122.202003
+12 14 2012;10.6;19;5;2012;Random;27;Sandy Hook Elementary;Elementary;Newtown;CT;Suburb;Past Student;M;20;1;41.4200956;-73.2787274
+01 07 2013;1;7;;2013;Targeted;1;;Elementary;Fort Myers;FL;;;;;;26.640628;-81.872308
+01 15 2013;1;15;;2013;Targeted;3;;College;Hazard;KY;;;;;;37.24954;-83.193228
+01 16 2013;1;16;;2013;Other;1;;College;Chicago;IL;;;;;;41.878114;-87.629798
+02 13 2013;2;13;;2013;Targeted;1;;Elementary;San Leandro;CA;;;;;;37.72493;-122.156077
+06 07 2013;6;7;;2013;Random;4;;College;Santa Monica;CA;;;;;;34.019454;-118.491191
+06 20 2013;6;20;;2013;Targeted;2;;High;West Palm Beach;FL;;;;;;26.715342;-80.053375
+08 23 2013;8;23;;2013;Targeted;1;;High;Sardis;MS;;;;;;34.437051;-89.915923
+09 21 2013;9;21;;2013;Targeted;1;;College;Savannah;GA;;;;;;32.083541;-81.099834
+10 21 2013;10;21;;2013;Random;1;;Middle;Sparks;NV;;;;;;39.534911;-119.752689
+12 13 2013;12;13;;2013;Other;1;;High;Arapahoe County;CO;;;;;;39.62031;-104.332644
+01 21 2014;1;21;;2014;Targeted;1;;College;West Lafayette;IN;;;;;;40.425869;-86.908066
+01 24 2014;1;24;;2014;Targeted;1;;College;Orangeburg;SC;;;;;;33.49182;-80.855648
+01 25 2014;1;25;;2014;Targeted;1;;College;Los Angeles;CA;;;;;;34.052234;-118.243685
+04 11 2014;4;11;;2014;Random;1;;High;Detroit;MI;;;;;;42.331427;-83.045754
+04 21 2014;4;21;;2014;Targeted;1;;Elementary;Griffith;IN;;;;;;41.528369;-87.42365
+05 23 2014;5;23;;2014;Random;6;;College;Santa Barbara;CA;;;;;;34.420831;-119.69819
+06 05 2014;6;5;;2014;Random;1;;College;Seattle;WA;;;;;;47.60621;-122.332071
+06 10 2014;6;10;;2014;Other;1;;High;Troutdale;OR;;;;;;45.539286;-122.387313
+10 24 2014;10;24;;2014;Targeted;4;;High;Marysville;WA;;;;;;48.051764;-122.177082
+11 20 2014;;;;2014;;1;;High;Miami, Florida;FL;;;;;;25.76168;-80.19179
+02 14 2015;;;;2015;;1;;Middle;Merced, California;CA;;;;;;37.302163;-120.482968
+04 13 2015;;;;2015;;1;;College;Goldsboro, North Carolina;NC;;;;;;35.384884;-77.992765
+08 27 2015;;;;2015;;1;;College;Savannah, Georgia;GA;;;;;;32.083541;-81.099834
+09 03 2015;;;;2015;;1;;College;Sacramento, California;CA;;;;;;38.581572;-121.4944
+09 14 2015;;;;2015;;1;;College;Cleveland, Mississippi;MS;;;;;;33.744002;-90.724819
+10 01 2015;;;;2015;;9;;College;Roseburg, Oregon;OR;;;;;;43.216505;-123.341738
+10 09 2015;;;;2015;;1;;College;Flagstaff, Arizona;AZ;;;;;;35.198284;-111.651302
+10 09 2015;;;;2015;;1;;College;Houston, Texas;TX;;;;;;29.760427;-95.369803
+10 22 2015;;;;2015;;1;;College;Nashville, Tennessee;TN;;;;;;36.162664;-86.781602
+11 01 2015;;;;2015;;1;;College;Winston-Salem, North Carolina;NC;;;;;;36.09986;-80.244216
+11 20 2015;;;;2015;;1;;High;North Las Vegas, Nevada;NV;;;;;;36.198859;-115.117501
+02 12 2016;;;;2016;;1;;High;Glendale, Arizona;AZ;;;;;;33.538652;-112.185987
+06 01 2016;;;;2016;;1;;College;Los Angeles, California;CA;;;;;;34.052234;-118.243685
+06 08 2016;;;;2016;;1;;High;Dorchester, Massachusetts;MA;;;;;;42.30163;-71.067605
+09 28 2016;;;;2016;;1;;Elementary;Townville, South Carolina;SC;;;;;;34.563714;-82.898478
+04 10 2017;;;;2017;;2;;Elementary;San Bernardino, California;CA;;;;;;34.108345;-117.289765
+05 04 2017;;;;2017;;1;;College;Irving, Texas;TX;;;;;;32.814018;-96.948894
+09 13 2017;;;;2017;;1;;High;Rockford, Washington;WA;;;;;;47.452121;-117.130747
+11 14 2017;;;;2017;;5;;Elementary;Rancho Tehama Reserve, California;CA;;;;;;40.000688;-122.458047
+12 07 2017;;;;2017;;2;;High;Aztec, New Mexico;NM;;;;;;36.822226;-107.992845
+01 20 2018;;;;2018;;1;;College;Winston-Salem, North Carolina;NC;;;;;;36.09986;-80.244216
+01 23 2018;;;;2018;;2;;High;Marshall County, Kentucky;KY;;;;;;36.857377;-88.401604
+02 14 2018;;;;2018;;17;;High;Parkland, Florida;FL;;;;;;26.310777;-80.253225
