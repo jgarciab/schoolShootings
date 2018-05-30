@@ -1,0 +1,20 @@
+\section*{Methods}
+
+\subsection*{Databases}
+We studied the following datasets:
+\textbf{Everytown:} The attacks, with and without victims, were extracted from \url{http://everytown.org/}, containing all incidents from the period January 2013 to November 2014.
+\textbf{Shultz:} The database for the period 1990--2013 gathered by Shultz et al.~\cite{Shultz2013} was updated with the Everytown database to include recent attacks with victims up to November 2014.
+\textbf{USA Today:} The database for the period 2006--July 2015 gathered by \url{http://www.usatoday.com/},  including all attacks with four or more victims.
+\textbf{Active shootings:} The date, size, age of the attacker and suicide result was obtained from the 2014 FBI report \textit{A Study of Active Shooter Incidents, 2000--2013}~\cite{FBI}.
+\textbf{Twitter:} 57 billions tweets were analyzed in the period 2010 to November 2014, extracting over 72 million tweets with the word ``shooting", 1.1 million with the words ``shooting" and ``school", and 233 thousand with the words ``mass" and ``murder". 
+ 
+\subsection*{Active shootings}
+We repeated the analysis with the 160 active shootings events from the FBI database~\cite{FBI}. 
+In this case, the distribution of attack sizes does not follow a power law (Fig. \ref{fig:S_FBIa}A). However, this is likely due to the definition of active shooting, where attacks with a low number of casualties do not tend to be included in the study. In agreement with the results of the report~\cite{FBI}, we find a steady rise in the frequency of attacks (Fig. \ref{fig:S_FBIa}B). 
+Consistent with our results of school shootings, the time between the two first attacks is a good indicator of the subsequent escalation pattern (Fig. \ref{fig:S_FBIa}C). 
+We found an interaction between attacks (Fig. \ref{fig:S_FBIa}D), which can be attributed to the copycat effect, since the probability of an attack in the subsequent 8, 19 and 35 days is correlated with the number of tweets containing ``shooting" (Fig. \ref{fig:S_FBIa}E), or ``school" and ``shooting" (Fig. \ref{fig:S_FBIa}F), but not ``mass" and ``murder" (Fig. \ref{fig:S_FBIa}G). 
+We can define again \textit{Early} and \textit{Late} attacks (Fig. \ref{fig:S_FBIb}A), that correlate with Twitter activity (Fig. \ref{fig:S_FBIb}B--C). 
+However, the size of the attacks in this case is not different for \textit{Early} and \textit{Late} attacks (Fig. \ref{fig:S_FBIb}D). 
+
+Finally, we analyzed the correlation between age, size, and suicide rates (Fig. \ref{fig:S_FBIb}E--G). We found a positive correlation between age and attack size (Fig. \ref{fig:S_FBIb}E). 
+Teenagers (ages 12--18) correlate with small size events (Fig. \ref{fig:S_FBIb}E) and low suicide rates (Fig. \ref{fig:S_FBIb}F). Young attackers (ages 18--38) exhibit high suicide rates (Fig. \ref{fig:S_FBIb}F). The size of the attack is not well correlated with suicide rates, with the exception of attacks without victims (Fig. \ref{fig:S_FBIb}G). 
