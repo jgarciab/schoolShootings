@@ -1,0 +1,214 @@
+date	city	state	type_attack	motives	number_victims	Latitude	Longitude
+2006-01-30	Goleta	Calif.	Shooting	Public Killing	7	34.435829	-119.827639
+2006-02-21	Mesa	Ariz.	Shooting	Other	5	33.415184	-111.831472
+2006-03-15	Detroit	Mich.	Shooting	Other	4	42.331427	-83.045754
+2006-03-19	Forsyth County	Ga.	Shooting, stabbing	Robbery/burglary	4	34.23585	-84.143514
+2006-03-25	Seattle	Wash.	Shooting	Public Killing	6	47.60621	-122.332071
+2006-04-18	St. Louis	Mo.	Shooting	Public Killing	4	38.627003	-90.199404
+2006-05-16	Phoenix	Ariz.	Shooting	Unknown	4	33.448377	-112.074037
+2006-05-21	Baton Rouge	La.	Shooting	Family killing	5	30.451468	-91.187147
+2006-06-01	Indianapolis	Ind.	Shooting	Robbery/burglary	7	39.768403	-86.158068
+2006-06-17	New Orleans	La.	Shooting	Other	5	29.951066	-90.071532
+2006-06-27	Slidell	La.	Shooting	Other	4	30.275195	-89.781175
+2006-07-04	Gustine	Calif.	Shooting	Family killing	4	37.257717	-120.998815
+2006-07-24	New Orleans	La.	Shooting	Other	4	29.951066	-90.071532
+2006-08-23	Fresno	Calif.	Shooting	Other	4	36.737798	-119.787125
+2006-09-04	Newry	Maine	Shooting	Other	4	44.488425	-70.788576
+2006-09-30	North Charleston	S.C.	Shooting	Family killing	5	32.85462	-79.97481
+2006-10-02	Nickel Mines	Pa.	Shooting	Public Killing	5	39.959214	-76.080417
+2006-10-05	Frederick County	Va.	Shooting	Family killing	4	39.209644	-78.260102
+2006-10-13	Port St. Lucie	Fla.	Shooting	Robbery/burglary	4	27.273049	-80.358226
+2006-10-14	Kansas City	Kan.	Shooting	Robbery/burglary	4	39.114053	-94.627464
+2006-10-14	Bonaparte	Iowa	Shooting	Family killing	5	40.698087	-91.803223
+2006-11-04	New Orleans	La.	Shooting	Family killing	4	29.951066	-90.071532
+2006-11-17	Kansas City	Mo.	Shooting	Robbery/burglary	4	39.099727	-94.578567
+2006-12-16	Kansas City	Kan.	Shooting	Family killing	6	39.114053	-94.627464
+2007-01-19	Fishkill	N.Y.	Shooting	Robbery/burglary	5	41.535649	-73.899025
+2007-01-28	Omaha	Neb.	Shooting	Family killing	4	41.256537	-95.934503
+2007-01-29	Youngstown	Ohio	Shooting	Other	4	41.09978	-80.649519
+2007-02-12	Salt Lake City	Utah	Shooting	Public Killing	5	40.760779	-111.891047
+2007-04-10	Happy Valley	Calif.	Shooting	Family killing	5	38.68194	-120.56222
+2007-04-16	Blacksburg	Va.	Shooting	Public Killing	32	37.229573	-80.413939
+2007-06-09	Delavan	Wis.	Shooting	Family killing	5	42.63307	-88.643714
+2007-06-14	Channahon Township	Ill.	Shooting	Family killing	4	41.407005	-88.187668
+2007-07-22	Philadelphia	Pa.	Shooting	Other	4	39.952584	-75.165222
+2007-08-25	Jonestown	Texas	Shooting	Other	4	30.495475	-97.923347
+2007-09-17	Detroit	Mich.	Shooting	Robbery/burglary	4	42.331427	-83.045754
+2007-09-22	Miami	Fla.	Shooting	Other	4	25.76168	-80.19179
+2007-10-07	Crandon	Wis.	Shooting	Other	6	45.571907	-88.902892
+2007-10-18	Detroit	Mich.	Shooting	Other	4	42.331427	-83.045754
+2007-11-11	Temecula	Calif.	Shooting	Family killing	4	33.493639	-117.148365
+2007-11-22	Unity	Md.	Shooting	Family killing	4	39.226217	-77.069423
+2007-12-05	Omaha	Neb.	Shooting	Public Killing	8	41.256537	-95.934503
+2007-12-09	Colorado Springs	Colo.	Shooting	Other	4	38.833882	-104.821363
+2007-12-14	Largo	Fla.	Shooting	Family killing	4	27.909467	-82.787324
+2007-12-24	Carnation	Wash.	Shooting	Family killing	6	47.647879	-121.914007
+2008-01-14	Indianapolis	Ind.	Shooting	Robbery/burglary	4	39.768403	-86.158068
+2008-02-02	Tinley Park	Ill.	Shooting	Robbery/burglary	5	41.573144	-87.793294
+2008-02-02	Cockeysville	Md.	Shooting	Family killing	4	39.481217	-76.64386
+2008-02-07	Los Angeles	Calif.	Shooting	Family killing	4	34.052234	-118.243685
+2008-02-07	Kirkwood	Mo.	Shooting	Public Killing	6	38.583386	-90.406785
+2008-02-14	Dekalb	Ill.	Shooting	Public Killing	5	41.929474	-88.750365
+2008-02-23	Yorba Linda	Calif.	Shooting	Family killing	4	33.888504	-117.813257
+2008-02-27	Bristol	Tenn.	Shooting	Family killing	4	36.595106	-82.188744
+2008-03-02	Memphis	Tenn.	Shooting, stabbing	Other	6	35.149534	-90.04898
+2008-03-18	Santa Maria	Calif.	Shooting	Public Killing	4	34.953034	-120.435719
+2008-03-24	Charlotte	N.C.	Shooting	Other	4	35.227087	-80.843127
+2008-04-24	Chicago	Ill.	Shooting	Robbery/burglary	5	41.878114	-87.629798
+2008-04-26	Easley	S.C.	Shooting	Family killing	4	34.829838	-82.601521
+2008-05-10	Houston	Texas	Shooting	Family killing	4	29.760427	-95.369803
+2008-06-01	Ingram	Texas	Shooting	Family killing	4	30.077431	-99.240321
+2008-06-25	Henderson	Ky.	Shooting	Public Killing	5	37.836154	-87.590013
+2008-07-04	Milwaukee	Wis.	Shooting	Other	4	43.038903	-87.906474
+2008-07-24	Birmingham	Ala.	Shooting, Smoke inhalation & burns	Family killing	4	33.520661	-86.80249
+2008-09-01	Camden	N.J.	Shooting	Family killing	4	39.925946	-75.11962
+2008-09-02	Alger	Wash.	Shooting	Public Killing	6	48.619831	-122.341273
+2008-09-08	Irvington	N.J.	Shooting	Robbery/burglary	4	40.726325	-74.228643
+2008-09-29	Wright Township	Mich.	Shooting, blunt force	Other	4	43.079495	-85.828146
+2008-10-05	Porter Ranch	Calif.	Shooting	Family killing	5	34.282213	-118.550616
+2008-10-30	Jefferson	La.	Shooting	Robbery/burglary	4	29.966037	-90.15313
+2008-11-02	Long Beach	Calif.	Shooting	Other	5	33.77005	-118.193739
+2008-12-06	Alton	Texas	Shooting	Family killing	4	26.2873	-98.313359
+2008-12-24	Covina	Calif.	Shooting, Smoke inhalation & burns	Family killing	9	34.090009	-117.89034
+2009-01-27	Wilmington	Calif.	Shooting	Family killing	6	33.785795	-118.264357
+2009-02-14	Brockport	N.Y.	Shooting	Other	4	43.213671	-77.93918
+2009-03-05	Cleveland	Ohio	Shooting	Family killing	5	41.49932	-81.694361
+2009-03-10	Samson	Ala.	Shooting	Family killing	10	31.112954	-86.046052
+2009-03-12	Conover	N.C.	Shooting, stabbing	Robbery/burglary	4	35.706522	-81.218693
+2009-03-15	Miami	Fla.	Shooting	Family killing	4	25.76168	-80.19179
+2009-03-16	Raytown	Mo.	Shooting	Family killing	4	39.008617	-94.463564
+2009-03-21	Oakland	Calif.	Shooting	Other	4	37.804364	-122.271114
+2009-03-29	Carthage	N.C.	Shooting	Public Killing	8	35.345987	-79.416971
+2009-03-29	Sunnyvale	Calif.	Shooting	Family killing	5	37.36883	-122.03635
+2009-04-03	Binghamton	N.Y.	Shooting	Public Killing	13	42.098687	-75.917974
+2009-04-04	Graham	Wash.	Shooting	Family killing	5	47.052879	-122.294284
+2009-04-07	Green Hill	Ala.	Shooting	Family killing	4	34.973139	-87.512246
+2009-04-17	Middletown	Md.	Shooting	Family killing	4	39.443712	-77.54471
+2009-06-22	Kansas City	Kan.	Shooting	Family killing	4	39.114053	-94.627464
+2009-08-27	Lawrenceville	Ga.	Shooting	Family killing	4	33.956215	-83.987962
+2009-11-01	Mount Airy	N.C.	Shooting	Family killing	4	36.499301	-80.607286
+2009-11-05	Killeen	Texas	Shooting	Public Killing	13	31.117119	-97.727796
+2009-11-09	Oklahoma City	Okla.	Shooting	Other	4	35.46756	-97.516428
+2009-11-12	Hot Springs	Ark.	Shooting	Robbery/burglary	5	34.5037	-93.05518
+2009-11-26	Jupiter	Fla.	Shooting	Family killing	4	26.934225	-80.094209
+2009-11-28	Burlingame	Kan.	Shooting	Family killing	4	38.753895	-95.834987
+2009-11-29	Parkland	Wash.	Shooting	Public Killing	4	47.155377	-122.434011
+2009-12-03	Madison	Wis.	Shooting	Family killing	4	43.073052	-89.40123
+2010-01-17	Bellville	Texas	Shooting	Family killing	5	29.950225	-96.257186
+2010-01-19	Spout Spring	Va.	Shooting	Family killing	8	37.349867	-78.909183
+2010-02-26	Milwaukee	Wis.	Suffocation, stabbing, shooting	Robbery/burglary	4	43.038903	-87.906474
+2010-03-25	New Orleans	La.	Shooting	Family killing	4	29.951066	-90.071532
+2010-03-30	Washington	D.C.	Shooting	Family killing	4	38.907192	-77.036871
+2010-04-03	North Hollywood	Calif.	Shooting	Other	4	34.187044	-118.381256
+2010-04-14	Chicago	Ill.	Shooting	Family killing	5	41.878114	-87.629798
+2010-06-06	Hialeah	Fla.	Shooting	Public Killing	4	25.857596	-80.278106
+2010-08-03	Manchester	Conn.	Shooting	Public Killing	8	41.77593	-72.521501
+2010-08-06	Prince George's County	Md.	Shooting	Other	4	38.784921	-76.872096
+2010-08-14	Buffalo	N.Y.	Shooting	Other	4	42.886447	-78.878369
+2010-08-28	Lake Havasu City	Ariz.	Shooting	Family killing	5	34.483901	-114.322455
+2010-09-02	Chicago	Ill.	Shooting	Other	4	41.878114	-87.629798
+2010-09-04	Lake Charles	La.	Shooting	Family killing	4	30.226595	-93.217376
+2010-09-11	Jackson	Ky.	Shooting	Family killing	5	37.553146	-83.383513
+2010-09-27	Riviera Beach	Fla.	Shooting	Family killing	5	26.775341	-80.058097
+2010-09-28	Boston	Mass.	Shooting	Robbery/burglary	4	42.360083	-71.05888
+2010-11-19	Tallahassee	Fla.	Shooting, drowning	Family killing	4	30.438256	-84.280733
+2010-11-30	Bonne Terre	Mo.	Shooting, strangulation	Family killing	4	37.923107	-90.555404
+2011-01-08	Tucson	Ariz.	Shooting	Public Killing	6	32.222607	-110.974711
+2011-01-28	Minot	N.D.	Shooting	Family killing	4	48.232967	-101.292291
+2011-02-11	Los Angeles	Calif.	Shooting	Other	4	34.052234	-118.243685
+2011-04-16	Oak Harbor	Ohio	Shooting	Family killing	4	41.506717	-83.146588
+2011-04-30	West Union	Ohio	Shooting	Family killing	4	38.794517	-83.545193
+2011-06-02	Yuma	Ariz.	Shooting	Family killing	5	32.692651	-114.627692
+2011-06-19	Medford	N.Y.	Shooting	Robbery/burglary	4	40.817599	-73.000107
+2011-07-03	Wagener	S.C.	Shooting	Family killing	4	33.652371	-81.361214
+2011-07-07	Grand Rapids	Mich.	Shooting	Family killing	7	42.96336	-85.668086
+2011-07-07	Wheatland	Wyo.	Shooting	Family killing	4	42.054414	-104.95275
+2011-07-23	Grand Prairie	Texas	Shooting	Family killing	5	32.745965	-96.997785
+2011-08-05	Ocala	Fla.	Shooting	Family killing	4	29.187199	-82.140092
+2011-08-07	Copley Township	Ohio	Shooting	Family killing	7	41.08751	-81.636387
+2011-08-27	Chesterfield	Va.	Shooting	Family killing	4	37.377094	-77.504986
+2011-09-05	Morgantown	W.Va.	Shooting	Public Killing	5	39.629526	-79.955897
+2011-09-06	Carson City	Nev.	Shooting	Public Killing	4	39.163798	-119.767403
+2011-09-25	Laurel	Ind.	Shooting	Other	5	39.500883	-85.186352
+2011-10-12	Seal Beach	Calif.	Shooting	Public Killing	8	33.741409	-118.104768
+2011-10-14	Liberty	S.C.	Shooting	Family killing	4	34.787891	-82.692359
+2011-11-20	Greensboro	N.C.	Shooting	Family killing	5	36.072635	-79.791975
+2011-11-30	Bay City	Texas	Shooting	Family killing	4	28.982757	-95.969402
+2011-12-15	Gargatha	Va.	Shooting	Family killing	4	37.782073	-75.65354
+2011-12-16	Emington	Ill.	Shooting	Family killing	4	40.969755	-88.35811
+2011-12-25	Grapevine	Texas	Shooting	Family killing	6	32.934292	-97.078065
+2012-01-17	Villa Park	Ill.	Shooting	Family killing	4	41.889752	-87.988954
+2012-01-29	Birmingham	Ala.	Shooting	Robbery/burglary	5	33.520661	-86.80249
+2012-02-21	Norcross	Ga.	Shooting	Family killing	4	33.941213	-84.213531
+2012-04-02	Oakland	Calif.	Shooting	Public Killing	7	37.804364	-122.271114
+2012-05-02	Gilbert	Ariz.	Shooting	Family killing	4	33.352826	-111.789027
+2012-05-15	Port St. John	Fla.	Shooting	Family killing	4	28.476946	-80.788666
+2012-05-19	Leivasy	W.Va.	Shooting	Robbery/burglary	4	38.161225	-80.690924
+2012-05-20	Seattle	Wash.	Shooting	Public Killing	5	47.60621	-122.332071
+2012-05-22	Salem	Ore.	Shooting	Family killing	5	44.942898	-123.035096
+2012-06-02	Tempe	Ariz.	Shooting	Family killing	4	33.42551	-111.940005
+2012-07-06	Newton Falls	Ohio	Shooting	Family killing	4	41.18839	-80.978147
+2012-07-20	Aurora	Colo.	Shooting	Public Killing	12	39.729432	-104.83192
+2012-08-05	Oak Creek	Wis.	Shooting	Public Killing	6	42.88585	-87.863136
+2012-09-27	Minneapolis	Minn.	Shooting	Public Killing	6	44.977753	-93.265011
+2012-10-22	Park City	Tenn.	Shooting	Robbery/burglary	6	35.082029	-86.571106
+2012-11-18	New Town	N.D.	Shooting	Other	4	47.980848	-102.49018
+2012-12-02	Los Angeles	Calif.	Shooting	Other	4	34.052234	-118.243685
+2012-12-04	Detroit	Mich.	Shooting	Other	4	42.331427	-83.045754
+2012-12-08	Tule River Reservation	Calif.	Shooting	Family killing	4	36.026893	-118.722312
+2012-12-14	Newtown	Conn.	Shooting	Public Killing	27	41.414117	-73.303565
+2013-01-07	Tulsa	Okla.	Shooting	Robbery/burglary	4	36.153982	-95.992775
+2013-01-19	Albuquerque	N.M.	Shooting	Family killing	5	35.084386	-106.650422
+2013-03-13	Herkimer	N.Y.	Shooting	Public Killing	4	43.025626	-74.985989
+2013-04-18	Akron	Ohio	Shooting	Robbery/burglary	4	41.081445	-81.519005
+2013-04-22	Federal Way	Wash.	Shooting	Family killing	4	47.322322	-122.312622
+2013-04-24	Manchester	Ill.	Shooting	Family killing	5	39.542269	-90.332343
+2013-04-28	Ottawa	Kan.	Shooting	Family killing	4	38.615768	-95.268637
+2013-05-11	Waynesville	Ind.	Shooting	Other	4	39.114391	-85.893517
+2013-05-13	Fernley	Nev.	Shooting, Stabbing	Robbery/burglary	5	39.607968	-119.251835
+2013-06-07	Santa Monica	Calif.	Shooting	Public Killing	5	34.019454	-118.491191
+2013-07-26	Hialeah	Fla.	Shooting	Public Killing	6	25.857596	-80.278106
+2013-07-26	Clarksburg	W.Va.	Shooting	Other	4	39.280645	-80.344534
+2013-08-07	Dallas	Texas	Shooting	Family killing	4	32.776664	-96.796988
+2013-08-14	Oklahoma City	Okla.	Shooting	Family killing	4	35.46756	-97.516428
+2013-09-11	Crab Orchard	Tenn.	Shooting	Robbery/burglary	4	35.909237	-84.878005
+2013-09-16	Washington	D.C.	Shooting	Public Killing	12	38.907192	-77.036871
+2013-09-20	Rice	Texas	Shooting	Family killing	4	32.243759	-96.498597
+2013-10-09	Paris	Texas	Shooting	Unknown	4	33.660939	-95.555513
+2013-10-26	Phoenix	Ariz.	Shooting	Unknown	4	33.448377	-112.074037
+2013-10-28	Terrell	Texas	Shooting	Other	5	32.735963	-96.275257
+2013-10-29	Callison	S.C.	Shooting	Family killing	5	34.01457	-82.125677
+2013-11-07	Jacksonville	Fla.	Shooting	Unknown	4	30.332184	-81.655651
+2013-11-23	Tulsa	Okla.	Shooting	Other	4	36.153982	-95.992775
+2013-12-01	Topeka	Kan.	Shooting	Family killing	4	39.047345	-95.675158
+2014-01-16	Spanish Fork	Utah	Shooting	Family killing	4	40.114955	-111.654923
+2014-01-25	Cypress	Texas	Shooting	Family killing	4	29.971691	-95.693786
+2014-02-20	Indianapolis	Ind.	Shooting	Other	4	39.768403	-86.158068
+2014-02-20	Alturas	Calif.	Shooting	Public Killing	4	41.487115	-120.542456
+2014-05-23	Isla Vista	Calif.	Shooting	Public Killing	6	34.413329	-119.860972
+2014-06-08	San Carlos Park	Fla.	Shooting	Family killing	4	26.467302	-81.801474
+2014-07-09	Spring	Texas	Shooting	Family killing	6	30.079941	-95.41716
+2014-07-26	Saco	Maine	Shooting	Family killing	4	43.500918	-70.442829
+2014-08-03	Culpeper	Va.	Shooting	Family killing	4	38.472963	-77.996251
+2014-09-02	Kansas City	Mo.	Shooting	Robbery/burglary	5	39.099727	-94.578567
+2014-09-18	Bell	Fla.	Shooting	Family killing	7	29.755513	-82.862624
+2014-10-24	Marysville	Wash.	Shooting	Public Killing	4	48.051764	-122.177082
+2014-10-26	Cadiz	Ky.	Shooting	Family killing	4	36.86505	-87.835295
+2014-11-15	Springfield	Mo.	Shooting	Other	4	37.208957	-93.292299
+2014-11-21	Cleveland	Ohio	Shooting	Family killing	5	41.49932	-81.694361
+2014-12-01	Cheat Lake	W.Va.	Shooting	Other	4	39.672024	-79.853391
+2014-12-15	Souderton	Pa.	Shooting, stabbing, blunt force	Family killing	6	40.311771	-75.325176
+2014-12-20	Rockford	Ill.	Shooting	Family killing	4	42.271131	-89.093995
+2015-01-09	San Francisco	Calif.	Shooting	Public Killing	4	37.77493	-122.419416
+2015-01-31	LaGrange	Ga.	Shooting, unknown	Family killing	5	33.036222	-85.032244
+2015-02-07	Douglasville	Ga.	Shooting	Family killing	4	33.751497	-84.747714
+2015-02-26	Tyrone	Mo.	Shooting	Unknown	7	37.200325	-91.869905
+2015-03-24	Indianapolis	Ind.	Shooting	Other	4	39.768403	-86.158068
+2015-04-16	Phoenix	Ariz.	Shooting	Family killing	4	33.448377	-112.074037
+2015-05-12	Tuscon	Ariz.	Shooting	Family killing	4	32.222607	-110.974711
+2015-05-17	Waco	Texas	Shooting	Other	9	31.549333	-97.14667
+2015-06-07	Deer Lodge	Mont.	Shooting	Family killing	4	46.399094	-112.738372
+2015-06-13	Columbus	Ohio	Shooting	Unknown	4	39.961176	-82.998794
+2015-06-17	Charleston	S.C.	Shooting	Public Killing	9	32.776475	-79.931051
+2015-07-15	Holly Hill	S.C.	Shooting	Unknown	4	33.322662	-80.413704
+2015-07-16	Chattanooga	Tenn.	Shooting	Public Killing	5	35.04563	-85.30968

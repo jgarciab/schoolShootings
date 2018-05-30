@@ -1,0 +1,291 @@
+Date;City, State ;School Name ;State;School Type ;Category;Attack;Latitude;Longitude
+02 14 2018;Parkland, FL ;Marjory Stoneman Douglas High School ;FL;K-12 ;Attack on other persons(s) resulting in injury or death;1;26.304503;-80.269457
+02 08 2018;New York, NY ;The Metropolitan High School ;NY;K-12 ;Gun fired but no one injured;0;40.827733;-73.897018
+02 05 2018;Maplewood, MN ;Harmony Learning Center ;MN;K-12 ;Gun fired but no one injured;0;45.021273;-93.017491
+02 05 2018;Oxon Hill, MD ;Oxon Hill High School ;MD;K-12 ;Attack on other persons(s) resulting in injury or death;1;38.797249;-76.993634
+02 01 2018;Los Angeles, CA ;Salvador B. Castro Middle School ;CA;K-12 ;Gun fired unintentionally resulting in injury or death;0;34.061282;-118.262913
+01 31 2018;Philadelphia, PA ;Lincoln High School ;PA;K-12 ;Attack on other persons(s) resulting in injury or death;1;40.044204;-75.041913
+01 26 2018;Dearborn, MI ;Dearborn High School ;MI;K-12 ;Gun fired but no one injured;0;42.308796;-83.261711
+01 25 2018;Mobile, AL ;Murphy High School ;AL;K-12 ;Gun fired but no one injured;0;30.682838;-88.08663
+01 23 2018;Benton, KY ;Marshall County High School ;KY;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.912803;-88.332763
+01 22 2018;Gentilly, LA ;The NET Charter High School ;LA;K-12 ;Attack on other persons(s) resulting in injury or death;1;30.02739;-90.051317
+01 22 2018;Italy, TX ;Italy High School ;TX;K-12 ;Attack on other persons(s) resulting in injury or death;1;32.180916;-96.878557
+01 20 2018;Winston-Salem, NC ;Wake Forest University ;NC;College ;Attack on other persons(s) resulting in injury or death;1;36.13525;-80.276342
+01 15 2018;Marshall, TX ;Wiley College ;TX;College ;Gun fired but no one injured;0;32.538487;-94.375187
+01 10 2018;San Bernardino, CA ;California State University, San Bernardino ;CA;College ;Gun fired but no one injured;0;34.182179;-117.323532
+01 10 2018;Sierra Vista, AZ ;Coronado Elementary School ;AZ;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;31.475638;-110.195577
+01 10 2018;Denison, TX ;Grayson College ;TX;College ;Gun fired but no one injured;0;33.706079;-96.634449
+01 04 2018;Seattle, WA ;New Start High School ;WA;K-12 ;Gun fired but no one injured;0;47.496167;-122.342495
+12 31 2017;Marysville, WA ;Pinewood Elementary School ;WA;K-12 ;Gun fired but no one injured;0;48.072871;-122.160878
+12 27 2017;Lancaster, CA ;Lincoln Elementary School ;CA;K-12 ;Attack on other persons(s) resulting in injury or death;1;34.682952;-118.103867
+12 19 2017;Beecher, MI ;Beecher High School ;MI;K-12 ;Attack on other persons(s) resulting in injury or death;1;43.098427;-83.715339
+12 14 2017;Dallas, TX ;Elisha M. Pease Elementary School ;TX;K-12 ;Gun fired but no one injured;0;32.69784;-96.773324
+12 13 2017;Monaca, PA ;Penn State Beaver ;PA;College ;Attack on other persons(s) resulting in injury or death;1;40.678197;-80.296383
+12 12 2017;Pasadena, TX ;Sam Rayburn High School ;TX;K-12 ;Gun fired unintentionally resulting in injury or death;0;29.677453;-95.182465
+12 12 2017;East Stroudsburg, PA ;East Stroudsburg University ;PA;College ;Attack on other persons(s) resulting in injury or death;1;40.997091;-75.172533
+12 11 2017;High Point, NC ;High Point Central High School ;NC;K-12 ;Gun fired but no one injured;0;35.957044;-80.021228
+12 07 2017;Aztec, NM ;Aztec High School ;NM;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.820791;-107.990737
+11 30 2017;Virginia Beach, VA ;Salem High School ;VA;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;36.782718;-76.143682
+11 29 2017;Lima, OH ;Bath High School ;OH;K-12 ;Gun fired but no one injured;0;40.77301;-84.052258
+11 28 2017;San Jose, CA ;Booksin Elementary School ;CA;K-12 ;Gun fired but no one injured;0;37.288723;-121.906648
+11 23 2017;Denver, CO ;Manual High School ;CO;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.755664;-104.96664
+11 17 2017;Jackson, TN ;North Side High School ;TN;K-12 ;Gun fired but no one injured;0;35.692257;-88.828026
+11 14 2017;Corning, CA ;Rancho Tehama Elementary School ;CA;K-12 ;Attack on other persons(s) resulting in injury or death;1;40.018748;-122.39309
+11 14 2017;Minneola, FL ;Lake Minneola High School ;FL;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;28.580885;-81.719783
+11 11 2017;Albany, GA ;Albany State University ;GA;College ;Attack on other persons(s) resulting in injury or death;1;31.569032;-84.140424
+11 10 2017;Milledgeville, GA ;Lakeview Academy ;GA;K-12 ;Gun fired but no one injured;0;33.090509;-83.264271
+11 10 2017;Texarkana, TX ;Texarkana College ;TX;College ;Gun fired unintentionally resulting in injury or death;0;33.44359;-94.07793
+11 09 2017;Atlanta, GA ;Benjamin Banneker High School ;GA;K-12 ;Gun fired unintentionally resulting in injury or death;0;33.590725;-84.519325
+11 07 2017;Fort Worth, TX ;Texas Christian University ;TX;College ;Gun fired but no one injured;0;32.70953;-97.362795
+11 03 2017;Lansing, MI ;Pattengill Middle School ;MI;K-12 ;Gun fired unintentionally resulting in injury or death;0;42.739422;-84.524671
+10 31 2017;Salt Lake City, UT ;University of Utah ;UT;College ;Attack on other persons(s) resulting in injury or death;1;40.764937;-111.842102
+10 30 2017;Chicago, IL ;Irma C. Ruiz Elementary School ;IL;K-12 ;Gun fired but no one injured;0;41.8479;-87.681223
+10 25 2017;Grambling, LA ;Grambling State University ;LA;College ;Attack on other persons(s) resulting in injury or death;1;32.521291;-92.719296
+10 19 2017;Petersburg, VA ;Virginia State University ;VA;College ;Attack on other persons(s) resulting in injury or death;1;37.238461;-77.419872
+10 14 2017;Petersburg, VA ;Virginia State University ;VA;College ;Attack on other persons(s) resulting in injury or death;1;37.238461;-77.419872
+10 11 2017;Easton, MA ;Stonehill College ;MA;College ;Gun fired unintentionally resulting in injury or death;0;42.059015;-71.080628
+10 09 2017;Lubbock, TX ;Texas Tech University ;TX;College ;Attack on other persons(s) resulting in injury or death;1;33.584259;-101.878282
+09 30 2017;Commodore, PA ;Purchase Line Elementary School ;PA;K-12 ;Attack on other persons(s) resulting in injury or death;1;40.73511;-78.917244
+09 29 2017;Lee's Summit, MO ;Lee's Summit North High School ;MO;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;38.928988;-94.37777
+09 20 2017;Mattoon, IL ;Mattoon High School ;IL;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.474343;-88.386141
+09 17 2017;Akron, OH ;University of Akron ;OH;College ;Attack on other persons(s) resulting in injury or death;1;41.076655;-81.511339
+09 13 2017;Rockford, WA ;Freeman High School ;WA;K-12 ;Attack on other persons(s) resulting in injury or death;1;47.52;-117.196394
+09 12 2017;St. Paul, MN ;St. Catherine University ;MN;College ;Gun fired unintentionally resulting in injury or death;0;44.925308;-93.182822
+09 08 2017;North Little Rock, AR ;North Little Rock High School ;AR;K-12 ;Attack on other persons(s) resulting in injury or death;1;34.776059;-92.268057
+09 08 2017;Columbus, OH ;Columbus Scioto 6-12 ;OH;K-12 ;Gun fired but no one injured;0;39.901527;-82.996806
+09 05 2017;Nashville, TN ;Tennessee State University ;TN;College ;Attack on other persons(s) resulting in injury or death;1;36.166822;-86.827582
+09 01 2017;College Station, TX ;Texas A&M University ;TX;College ;Attack on other persons(s) resulting in injury or death;1;30.618531;-96.336499
+08 17 2017;Lithia Springs, GA ;Lithia Springs High School ;GA;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;33.755571;-84.657863
+07 23 2017;Fayetteville, AR ;University of Arkansas ;AR;College ;Attack on other persons(s) resulting in injury or death;1;36.067832;-94.173655
+07 21 2017;Spanish Fork, UT ;Spanish Fork High School ;UT;K-12 ;Attack on other persons(s) resulting in injury or death;1;40.111063;-111.66049
+07 19 2017;Milwaukee, WI ;Hickman Academy Prepatory School ;WI;K-12 ;Attack on other persons(s) resulting in injury or death;1;43.093845;-87.976546
+07 13 2017;Las Vegas, NV ;University of Nevada, Las Vegas ;NV;College ;Gun fired but no one injured;0;36.10852;-115.143171
+06 22 2017;Florence, SC ;Wilson High School ;SC;K-12 ;Gun fired unintentionally resulting in injury or death;0;34.219676;-79.731214
+06 16 2017;Chicago, IL ;Warren Elementary School ;IL;K-12 ;Attack on other persons(s) resulting in injury or death;1;41.727722;-87.575008
+06 05 2017;Fort Wayne, IN ;Ravenscroft Beauty College ;IN;College ;Attack on other persons(s) resulting in injury or death;1;41.121672;-85.046054
+05 24 2017;Greensboro, AL ;Greensboro High School ;AL;K-12 ;Gun fired but no one injured;0;32.707962;-87.5883
+05 23 2017;Kirbyville, TX ;Kirbyville High School ;TX;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;30.648551;-93.896766
+05 15 2017;Moss Bluff, LA ;Moss Bluff Elementary School ;LA;K-12 ;Gun fired unintentionally resulting in injury or death;0;30.299484;-93.203354
+05 02 2017;Irving, TX ;North Lake College ;TX;College ;Attack on other persons(s) resulting in injury or death;1;32.871217;-96.967303
+04 25 2017;Orem, UT ;Utah Valley University ;UT;College ;Gun fired but no one injured;0;40.278831;-111.715197
+04 15 2017;Tulsa, OK ;Booker T. Washington High School ;OK;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.188142;-95.970535
+04 10 2017;San Bernardino, CA ;North Park Elementary School ;CA;K-12 ;Attack on other persons(s) resulting in injury or death;1;34.179296;-117.301319
+04 07 2017;St. Paul, MN ;University of St. Thomas ;MN;College ;Gun fired unintentionally resulting in injury or death;0;44.941751;-93.191491
+03 31 2017;Pensacola, FL ;University of West Florida ;FL;College ;Gun fired but no one injured;0;30.546935;-87.216022
+03 15 2017;Gaffney, SC ;Limestone College ;SC;College ;Gun fired but no one injured;0;35.055653;-81.649891
+03 13 2017;Wilberforce, OH ;Central State University ;OH;College ;Attack on other persons(s) resulting in injury or death;1;39.716782;-83.87647
+02 06 2017;Scotlandville, LA ;Scotlandville High School ;LA;K-12 ;Gun fired but no one injured;0;30.533459;-91.176736
+01 27 2017;Aiken, SC ;South Aiken High School ;SC;K-12 ;Attack on other persons(s) resulting in injury or death;1;33.521916;-81.712799
+01 22 2017;Manhattan, KS ;Kansas State University ;KS;College ;Gun fired unintentionally resulting in injury or death;0;39.197444;-96.584725
+01 20 2017;West Liberty, OH ;West Liberty-Salem High School ;OH;K-12 ;Attack on other persons(s) resulting in injury or death;1;40.21598;-83.754573
+01 17 2017;Eastpoint, FL ;Franklin County Elementary School ;FL;K-12 ;Gun fired but no one injured;0;29.743414;-84.875647
+01 10 2017;Alexander City, AL ;Alexander City Middle School ;AL;K-12 ;Gun fired but no one injured;0;32.945246;-85.948672
+01 05 2017;Lebanon, OH ;Warren County Career Center ;OH;College ;Attempted or completed suicide, with no intent to injure other person;0;39.490003;-84.205871
+12 29 2016;Salt Lake City, UT ;University of Utah ;UT;College ;Attack on other persons(s) resulting in injury or death;1;40.764937;-111.842102
+12 09 2016;St. Louis, MO ;Bayless High School ;MO;K-12 ;Attack on other persons(s) resulting in injury or death;1;38.552111;-90.301456
+12 01 2016;Bountiful, UT ;Mueller Park Junior High School ;UT;K-12 ;Gun fired but no one injured;0;40.872385;-111.861186
+11 17 2016;St. Paul, MN ;Crossroads Elementary School ;MN;K-12 ;Gun fired but no one injured;0;44.970808;-93.122882
+11 11 2016;Auburn, MI ;Bay City Western High School ;MI;K-12 ;Gun fired unintentionally resulting in injury or death;0;43.604951;-84.078202
+11 03 2016;Berthoud, CO ;Berthoud High School ;CO;K-12 ;Attack on other persons(s) resulting in injury or death;1;40.29891;-105.086521
+11 02 2016;Grand Junction, CO ;Grand Junction High School ;CO;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;39.080777;-108.562921
+10 23 2016;Huntsville, AL ;Alabama A&M University ;AL;College ;Gun fired but no one injured;0;34.784633;-86.572031
+10 23 2016;Caledonia, MI ;Davenport University ;MI;College ;Attack on other persons(s) resulting in injury or death;1;42.849392;-85.530676
+10 11 2016;Prichard, AL ;Vigor High School ;AL;K-12 ;Attack on other persons(s) resulting in injury or death;1;30.743173;-88.080367
+10 06 2016;Fort Worth, TX ;Dunbar High School ;TX;K-12 ;Attack on other persons(s) resulting in injury or death;1;32.719793;-97.231019
+09 28 2016;Townville, SC ;Townville Elementary School ;SC;K-12 ;Attack on other persons(s) resulting in injury or death;1;34.563674;-82.902399
+09 15 2016;Stephenville, TX ;Tarleton State University ;TX;College ;Gun fired but no one injured;0;32.215898;-98.215903
+09 09 2016;Cedar Rapids, IA ;Cedar Rapids Jefferson High School ;IA;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;41.965818;-91.698704
+09 09 2016;Montgomery, AL ;Auburn University at Montgomery ;AL;College ;Attack on other persons(s) resulting in injury or death;1;32.369746;-86.176658
+09 08 2016;Alpine, TX ;Alpine High School ;TX;K-12 ;Attack on other persons(s) resulting in injury or death;1;30.371484;-103.665756
+09 02 2016;Tulsa, OK ;McLain High School ;OK;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.225181;-95.97486
+08 25 2016;Booneville, MS ;Northeast Mississippi Community College ;MS;College ;Attack on other persons(s) resulting in injury or death;1;34.667266;-88.562436
+07 25 2016;Ava, MO ;Ava High School ;MO;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.956871;-92.65941
+07 07 2016;Dallas, TX ;El Centro College ;TX;College ;Attack on other persons(s) resulting in injury or death;1;32.77976;-96.805331
+06 10 2016;Vallejo, CA ;Solano Community College ;CA;College ;Gun fired unintentionally resulting in injury or death;0;38.135201;-122.20357
+06 07 2016;Columbia, MO ;University of Missouri ;MO;College ;Gun fired unintentionally resulting in injury or death;0;38.940381;-92.327738
+06 01 2016;Los Angeles, CA ;University of California-Los Angeles ;CA;College ;Attack on other persons(s) resulting in injury or death;1;34.068921;-118.445181
+05 15 2016;Augusta, KS ;Augusta High School ;KS;K-12 ;Gun fired unintentionally resulting in injury or death;0;37.696685;-96.970156
+05 13 2016;Greenville, SC ;Southside High School ;SC;K-12 ;Gun fired unintentionally resulting in injury or death;0;34.7967;-82.403815
+05 11 2016;Jamaica, NY ;St. John's University ;NY;College ;Gun fired but no one injured;0;40.723014;-73.795035
+05 06 2016;Twin Falls, ID ;Robert Stuart Middle School ;ID;K-12 ;Gun fired but no one injured;0;42.575306;-114.491953
+05 06 2016;Columbia, MO ;University of Missouri ;MO;College ;Gun fired but no one injured;0;38.940381;-92.327738
+05 06 2016;Panama City, FL ;Oscar Patterson Elementary School ;FL;K-12 ;Gun fired unintentionally resulting in injury or death;0;30.166455;-85.638797
+05 05 2016;Beltsville, MD ;High Point High School ;MD;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.042611;-76.943467
+05 02 2016;Dallas, TX ;Kimball High School ;TX;K-12 ;Gun fired unintentionally resulting in injury or death;0;32.699661;-96.877071
+04 29 2016;Charleston, WV ;University of Charleston ;WV;College ;Gun fired but no one injured;0;38.33226;-81.61562
+04 16 2016;Tuskegee, AL ;Tuskegee University ;AL;College ;Attack on other persons(s) resulting in injury or death;1;32.430678;-85.707285
+04 02 2016;Manhattan, KS ;Kansas State University ;KS;College ;Attempted or completed suicide, with no intent to injure other person;0;39.197444;-96.584725
+03 27 2016;Tacoma, WA ;University of Puget Sound ;WA;College ;Gun fired but no one injured;0;47.261764;-122.481455
+03 23 2016;Charlotte, NC ;Johnson C. Smith University ;NC;College ;Attack on other persons(s) resulting in injury or death;1;35.242719;-80.856212
+03 21 2016;Atlanta, GA ;Georgia State University ;GA;College ;Attack on other persons(s) resulting in injury or death;1;33.753068;-84.385282
+03 15 2016;Birmingham, AL ;Huffman High School ;AL;K-12 ;Attack on other persons(s) resulting in injury or death;1;33.611221;-86.683192
+02 29 2016;Middletown, OH ;Madison High School ;OH;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.533853;-84.443375
+02 26 2016;Palestine, TX ;Palestine High School ;TX;K-12 ;Attack on other persons(s) resulting in injury or death;1;31.73818;-95.605374
+02 17 2016;Homosassa, FL ;Rock Crusher Elementary School ;FL;K-12 ;Gun fired but no one injured;0;28.84901;-82.53689
+02 12 2016;Glendale, AZ ;Independence High School ;AZ;K-12 ;Attack on other persons(s) resulting in injury or death;1;33.532439;-112.222754
+02 09 2016;Muskegon Heights High School, MI ;Muskegon Heights High School ;MI;K-12 ;Attack on other persons(s) resulting in injury or death;1;43.20725;-86.247445
+01 29 2016;Philadelphia, PA ;Benjamin Franklin High School ;PA;K-12 ;Gun fired but no one injured;0;39.96359;-75.162017
+01 22 2016;Indianapolis, IN ;Lawrence Central High School ;IN;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.85667;-86.038215
+01 20 2016;Indianapolis, IN ;Northwest Community High School ;IN;K-12 ;Gun fired but no one injured;0;39.814651;-86.258554
+01 13 2016;Camden, AR ;Harmony Grove High School ;AR;K-12 ;Gun fired unintentionally resulting in injury or death;0;33.651494;-92.779906
+01 12 2016;Dover, DE ;Central Middle School ;DE;K-12 ;Gun fired but no one injured;0;39.164456;-75.523122
+12 29 2015;Greeley, CO, CO ;Aims Community College ;CO;College ;Attempted or completed suicide, with no intent to injure other person;0;40.40955;-104.76275
+12 18 2015;Jackson, TN ;Lane College ;TN;College ;Gun fired but no one injured;0;35.627775;-88.806113
+11 29 2015;Columbus, OH ;Ohio State University ;OH;College ;Attempted or completed suicide, with no intent to injure other person;0;40.014191;-83.030914
+11 11 2015;Sulphur Rock, AR ;Sulphur Rock Magnet School ;AR;K-12 ;Gun fired unintentionally resulting in injury or death;0;35.756083;-91.499929
+11 10 2015;Lecanto, FL ;Lecanto High School ;FL;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;28.824296;-82.498465
+11 05 2015;Moultrie, GA ;Vereen School ;GA;K-12 ;Gun fired but no one injured;0;31.176829;-83.805904
+11 01 2015;Winston-Salem, NC ;Winston-Salem State University ;NC;College ;Attack on other persons(s) resulting in injury or death;1;36.089874;-80.225117
+10 25 2015;Durham, NC ;North Carolina Central University ;NC;College ;Attack on other persons(s) resulting in injury or death;1;35.974737;-78.898101
+10 24 2015;San Antonio, TX ;Ed White Middle School ;TX;K-12 ;Attack on other persons(s) resulting in injury or death;1;29.505616;-98.380185
+10 22 2015;Nashville, TN ;Tennessee State University ;TN;College ;Attack on other persons(s) resulting in injury or death;1;36.166822;-86.827582
+10 15 2015;Langston, OK ;Langston University ;OK;College ;Gun fired but no one injured;0;35.945962;-97.262907
+10 15 2015;San Antonio, TX ;Wagner High School ;TX;K-12 ;Gun fired but no one injured;0;29.456642;-98.356936
+10 11 2015;Tampa, FL ;University of South Florida ;FL;College ;Gun fired but no one injured;0;28.058703;-82.413854
+10 09 2015;Houston, TX ;Texas Southern University ;TX;College ;Attack on other persons(s) resulting in injury or death;1;29.721763;-95.360612
+10 09 2015;Flagstaff, AZ ;Northern Arizona University - Flagstaff ;AZ;College ;Attack on other persons(s) resulting in injury or death;1;35.18519;-111.654707
+10 06 2015;Houston, TX ;Texas Southern University ;TX;College ;Attack on other persons(s) resulting in injury or death;1;29.721763;-95.360612
+10 02 2015;University City, MO ;University City High School ;MO;K-12 ;Attack on other persons(s) resulting in injury or death;1;38.665088;-90.329303
+10 01 2015;Roseburg, OR ;Umpqua Community College ;OR;College ;Attack on other persons(s) resulting in injury or death;1;43.289522;-123.333247
+09 30 2015;Harrisburg, SD ;Harrisburg High School ;SD;K-12 ;Attack on other persons(s) resulting in injury or death;1;43.434295;-96.719448
+09 28 2015;Butte, MT ;Montana Tech of the University of Montana ;MT;College ;Gun fired but no one injured;0;46.012346;-112.557698
+09 22 2015;Statesville, NC ;Central Elementary School ;NC;K-12 ;Attack on other persons(s) resulting in injury or death;1;35.927912;-80.960631
+09 14 2015;Cleveland, MS ;Delta State University ;MS;College ;Attack on other persons(s) resulting in injury or death;1;33.745378;-90.735451
+09 11 2015;Lafayette, LA ;Northside High School ;LA;K-12 ;Attack on other persons(s) resulting in injury or death;1;30.251483;-92.002838
+09 03 2015;Sacramento, CA ;Sacramento City College ;CA;College ;Attack on other persons(s) resulting in injury or death;1;38.540867;-121.491488
+08 27 2015;Savannah, GA ;Savannah State University ;GA;College ;Attack on other persons(s) resulting in injury or death;1;32.024521;-81.062637
+08 26 2015;Houston, TX ;Texas Southern University ;TX;College ;Attack on other persons(s) resulting in injury or death;1;29.721763;-95.360612
+08 25 2015;Augusta, GA ;Hornsby Elementary School ;GA;K-12 ;Gun fired unintentionally resulting in injury or death;0;33.459921;-81.937786
+08 23 2015;Richmond, TX ;William Velasquez Elementary ;TX;K-12 ;Gun fired but no one injured;0;29.539189;-95.683017
+08 08 2015;Wichita, KS ;Wichita State ;KS;College ;Attack on other persons(s) resulting in injury or death;1;37.719393;-97.292869
+08 08 2015;Paradise, TX ;Paradise High School ;TX;K-12 ;Gun fired but no one injured;0;33.144268;-97.690696
+07 27 2015;Gainesville, FL ;University of Florida ;FL;College ;Gun fired but no one injured;0;29.643633;-82.35493
+07 24 2015;Converse, TX ;Elolf Elementary School ;TX;K-12 ;Attack on other persons(s) resulting in injury or death;1;29.486211;-98.31754
+07 05 2015;Dallas, TX ;Coppell Middle School East ;TX;K-12 ;Attack on other persons(s) resulting in injury or death;1;32.961876;-96.996092
+06 23 2015;Fort Calhoun, NE ;Fort Calhoun Elementary School ;NE;K-12 ;Gun fired but no one injured;0;41.456361;-96.021647
+06 04 2015;Franklin, NC ;South Macon Elementary School ;NC;K-12 ;Gun fired but no one injured;0;35.113436;-83.399244
+05 27 2015;Everglades City, FL ;Everglades City School ;FL;K-12 ;Attack on other persons(s) resulting in injury or death;1;25.864086;-81.387025
+05 24 2015;Flint, MI ;Southwestern Classical Academy ;MI;K-12 ;Attack on other persons(s) resulting in injury or death;1;42.998104;-83.699571
+05 20 2015;Robinson, TX ;Robinson High School ;TX;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;31.462716;-97.121388
+05 12 2015;Tempe, AZ ;Corona del Sol High School ;AZ;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;33.325218;-111.926166
+05 05 2015;Conyers, GA ;Conyers Middle School ;GA;K-12 ;Gun fired but no one injured;0;33.683907;-84.004715
+05 04 2015;Cleveland, OH ;Willow Elementary School ;OH;K-12 ;Attack on other persons(s) resulting in injury or death;1;41.475314;-81.656187
+05 04 2015;Orem, UT ;Utah Valley Univeristy ;UT;College ;Gun fired unintentionally resulting in injury or death;0;40.278831;-111.715197
+04 27 2015;Lacey, WA ;North Thurston High School ;WA;K-12 ;Gun fired but no one injured;0;47.052296;-122.832465
+04 22 2015;Las Vegas, NV ;Ruthe Deskin Elementary School ;NV;K-12 ;Gun fired but no one injured;0;36.243462;-115.255142
+04 19 2015;Dover, DE ;Delaware State University ;DE;College ;Attack on other persons(s) resulting in injury or death;1;39.186137;-75.542273
+04 19 2015;Charlotte, NC ;Johnson C. Smith University ;NC;College ;Attack on other persons(s) resulting in injury or death;1;35.242719;-80.856212
+04 18 2015;Dover, DE ;Delaware State University ;DE;College ;Attack on other persons(s) resulting in injury or death;1;39.186137;-75.542273
+04 17 2015;Seguin, TX ;Seguin High School ;TX;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;29.577649;-97.946973
+04 13 2015;Goldsboro, NC ;Wayne Community College ;NC;College ;Attack on other persons(s) resulting in injury or death;1;35.403079;-77.944468
+04 04 2015;Everett, WA ;Everett Community College ;WA;College ;Gun fired but no one injured;0;48.005977;-122.203897
+04 02 2015;Monaca, PA ;Community College of Beaver County ;PA;College ;Gun fired unintentionally resulting in injury or death;0;40.656203;-80.305293
+04 02 2015;Jackson, TN ;Lane College ;TN;College ;Attack on other persons(s) resulting in injury or death;1;35.627775;-88.806113
+03 09 2015;Coon Rapids, MN ;Northwest Passage High School ;MN;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;45.177287;-93.307583
+02 23 2015;Daytona Beach, FL ;Bethune-Cookman University ;FL;College ;Attack on other persons(s) resulting in injury or death;1;29.21101;-81.031575
+02 15 2015;Athens, GA ;University of Georgia ;GA;College ;Gun fired but no one injured;0;33.948005;-83.377322
+02 15 2015;Little Rock, AR ;Lawson Elementary School ;AR;K-12 ;Attack on other persons(s) resulting in injury or death;1;34.716293;-92.493574
+02 15 2015;Merced, CA ;Tenaya Middle School ;CA;K-12 ;Attack on other persons(s) resulting in injury or death;1;37.292839;-120.494082
+02 05 2015;Columbia, SC ;University of South Carolina ;SC;College ;Attack on other persons(s) resulting in injury or death;1;33.996112;-81.027428
+02 04 2015;Frederick, MD ;Frederick High School ;MD;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.416805;-77.42732
+02 02 2015;Mankato, MN ;Minnesota State University ;MN;College ;Attempted or completed suicide, with no intent to injure other person;0;44.146351;-93.998613
+01 26 2015;Roseville, MN ;Hand and Hand Montessori ;MN;K-12 ;Attack on other persons(s) resulting in injury or death;1;45.004796;-93.178906
+01 23 2015;Hardeeville, SC ;Royal Live Oaks Academy ;SC;K-12 ;Gun fired but no one injured;0;32.29747;-81.095988
+01 20 2015;Mobile, AL ;Williamson High School ;AL;K-12 ;Attack on other persons(s) resulting in injury or death;1;30.669743;-88.074174
+01 16 2015;Ocala, FL ;Vanguard High School ;FL;K-12 ;Attack on other persons(s) resulting in injury or death;1;29.217367;-82.137149
+01 15 2015;Milwaukee, WI ;Wisconson Lutheran High School ;WI;K-12 ;Attack on other persons(s) resulting in injury or death;1;43.033728;-88.016388
+12 17 2014;Pittsburgh, PA ;Sunnyside Elementary School ;PA;K-12 ;Attack on other persons(s) resulting in injury or death;1;40.481059;-79.933611
+12 17 2014;Waterville, ME ;Benton Elementary School ;ME;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;44.589019;-69.578042
+12 05 2014;Claremore, OK ;Rogers State University ;OK;College ;Attack on other persons(s) resulting in injury or death;1;36.318252;-95.640635
+11 23 2014;Annapolis, MD ;St Johns College ;MD;College ;Attack on other persons(s) resulting in injury or death;1;38.981963;-76.491536
+11 20 2014;Tallahasse, FL ;Florida State University ;FL;College ;Attack on other persons(s) resulting in injury or death;1;30.441878;-84.298489
+10 24 2014;Marysville, WA ;Marysville Pilchuck High School ;WA;K-12 ;Attack on other persons(s) resulting in injury or death;1;48.096469;-122.154923
+10 21 2014;Memphis, TN ;A. Maceo Walker Middle School ;TN;K-12 ;Gun fired unintentionally resulting in injury or death;0;35.03682;-90.000987
+10 18 2014;Langston, OK ;Langston University ;OK;College ;Attack on other persons(s) resulting in injury or death;1;35.945962;-97.262907
+10 13 2014;Nashville, TN ;Tennessee State University ;TN;College ;Gun fired but no one injured;0;36.166822;-86.827582
+10 08 2014;Elizabeth City, NC ;Elizabeth City State University ;NC;College ;Gun fired but no one injured;0;36.281065;-76.21396
+10 03 2014;Fairburn, GA ;Langston Hughes High School ;GA;K-12 ;Attack on other persons(s) resulting in injury or death;1;33.61657;-84.633788
+09 30 2014;Albermarle, NC ;Abermarle High school ;NC;K-12 ;Attack on other persons(s) resulting in injury or death;1;35.371249;-80.192758
+09 30 2014;Louisville, KY ;Fern Creek High School ;KY;K-12 ;Attack on other persons(s) resulting in injury or death;1;38.156145;-85.592745
+09 29 2014;Terre Haute, IN ;Indiana State University ;IN;College ;Attack on other persons(s) resulting in injury or death;1;39.470531;-87.410374
+09 27 2014;Nashville, TN ;Tennessee State University ;TN;College ;Attack on other persons(s) resulting in injury or death;1;36.166822;-86.827582
+09 11 2014;Taylorsville, UT ;Westbrook Elementary School ;UT;K-12 ;Gun fired unintentionally resulting in injury or death;0;40.637701;-111.972921
+09 10 2014;Lake Mary, FL ;Greenwood Lakes Middle School ;FL;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;28.735746;-81.340688
+09 05 2014;Savannah, GA ;Savannah State University ;GA;College ;Attack on other persons(s) resulting in injury or death;1;32.024521;-81.062637
+09 02 2014;Pocatello, ID ;Idaho State University ;ID;College ;Gun fired unintentionally resulting in injury or death;0;42.862723;-112.429716
+08 14 2014;Newport News, VA ;Saunders Elementary ;VA;K-12 ;Attack on other persons(s) resulting in injury or death;1;37.086806;-76.454432
+08 13 2014;Fredrick, MD ;Heather Ridge High school ;MD;K-12 ;Gun fired but no one injured;0;39.43627;-77.413024
+06 27 2014;Miami, FL ;University of Miami ;FL;College ;Gun fired but no one injured;0;25.719169;-80.277125
+06 23 2014;Benton, MO ;Kelly High School ;MO;K-12 ;Gun fired unintentionally resulting in injury or death;0;37.045448;-89.474625
+06 10 2014;Troutdale, OR ;Reynolds High School ;OR;K-12 ;Attack on other persons(s) resulting in injury or death;1;45.528581;-122.402484
+06 05 2014;Seattle, WA ;Seattle Pacific University ;WA;College ;Attack on other persons(s) resulting in injury or death;1;47.649581;-122.361537
+05 21 2014;Milwaukee, WI ;Clarke Street School Playground ;WI;K-12 ;Attack on other persons(s) resulting in injury or death;1;43.066315;-87.949356
+05 08 2014;Lawrenceville, GA ;Georgia Gwinnett College ;GA;College ;Attempted or completed suicide, with no intent to injure other person;0;33.97908;-84.005416
+05 08 2014;Georgetown, KY ;Georgetown College ;KY;College ;Gun fired unintentionally resulting in injury or death;0;38.207007;-84.554323
+05 05 2014;Augusta, GA ;Paine College ;GA;College ;Attack on other persons(s) resulting in injury or death;1;33.469555;-81.993254
+05 04 2014;Augusta, GA ;Paine College ;GA;College ;Attack on other persons(s) resulting in injury or death;1;33.469555;-81.993254
+05 03 2014;Everett, WA ;Horizon Elementary ;WA;K-12 ;Attack on other persons(s) resulting in injury or death;1;47.920589;-122.236939
+05 02 2014;Milwaukee, WI ;Marquette University ;WI;College ;Attack on other persons(s) resulting in injury or death;1;43.038222;-87.929755
+04 21 2014;Provo, UT ;Provo High School ;UT;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;40.247999;-111.659547
+04 21 2014;Griffith, IN ;St. Mary Catholic School ;IN;K-12 ;Attack on other persons(s) resulting in injury or death;1;41.531422;-87.42691
+04 16 2014;Council Bluffs, IA ;Iowa Western Community College ;IA;College ;Attack on other persons(s) resulting in injury or death;1;41.272829;-95.801108
+04 11 2014;Detroit, MI ;East English Village Preparatory Academy ;MI;K-12 ;Attack on other persons(s) resulting in injury or death;1;42.408031;-82.929053
+04 03 2014;Kent, OH ;Kent State University ;OH;College ;Gun fired unintentionally resulting in injury or death;0;41.149063;-81.341465
+03 30 2014;Savannah, GA ;Savannah State University ;GA;College ;Gun fired but no one injured;0;32.024521;-81.062637
+03 23 2014;Newark, DE ;University of Delaware ;DE;College ;Gun fired but no one injured;0;39.67795;-75.750611
+03 08 2014;Oshkosh, WI ;University of Wisconsin - Oshkosh ;WI;College ;Gun fired but no one injured;0;44.025319;-88.551021
+03 07 2014;Tallulah, LA ;Madison Parish High School ;LA;K-12 ;Attack on other persons(s) resulting in injury or death;1;32.398281;-91.207432
+03 02 2014;Westminster, MD ;McDaniel College ;MD;College ;Gun fired but no one injured;0;39.582991;-77.003719
+02 20 2014;Raytown, MO ;Raytown Success Academy ;MO;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.029548;-94.476674
+02 12 2014;Jackson, TN ;Union University ;TN;College ;Attack on other persons(s) resulting in injury or death;1;35.677378;-88.859591
+02 11 2014;Lyndhurst, OH ;Charles F. Brush High School ;OH;K-12 ;Gun fired but no one injured;0;41.522032;-81.505297
+02 10 2014;Salisbury, NC ;Salisbury High School ;NC;K-12 ;Attack on other persons(s) resulting in injury or death;1;35.664634;-80.48514
+02 07 2014;Bend, OR ;Bend High School ;OR;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;44.052599;-121.295763
+01 31 2014;Des Moines, IA ;North High School ;IA;K-12 ;Attack on other persons(s) resulting in injury or death;1;41.617705;-93.623207
+01 31 2014;Phoenix, AZ ;Cesar Chavez High School ;AZ;K-12 ;Gun fired but no one injured;0;33.375833;-112.145292
+01 28 2014;Grambling, LA ;Grambling State University ;LA;College ;Attack on other persons(s) resulting in injury or death;1;32.521291;-92.719296
+01 28 2014;Nashville, TN ;Tennessee State University ;TN;College ;Attack on other persons(s) resulting in injury or death;1;36.166822;-86.827582
+01 24 2014;Orangeburg, SC ;South Carolina State University ;SC;College ;Attack on other persons(s) resulting in injury or death;1;33.498344;-80.850149
+01 21 2014;West Lafayette, IN ;Purdue University ;IN;College ;Attack on other persons(s) resulting in injury or death;1;40.423705;-86.921195
+01 20 2014;Chester, PA ;Widener University ;PA;College ;Attack on other persons(s) resulting in injury or death;1;39.863356;-75.356675
+01 17 2014;Philadelphia, PA ;Delaware Valley Charter High School ;PA;K-12 ;Gun fired unintentionally resulting in injury or death;0;40.032961;-75.144631
+01 15 2014;Lancaster, PA ;King Elementary School ;PA;K-12 ;Gun fired but no one injured;0;40.034016;-76.299557
+01 14 2014;Roswell, NM ;Berrendo Middle School ;NM;K-12 ;Attack on other persons(s) resulting in injury or death;1;33.473034;-104.512369
+01 09 2014;Jackson, TN ;Liberty Technology Magnet High School ;TN;K-12 ;Attack on other persons(s) resulting in injury or death;1;35.674849;-88.759997
+12 19 2013;Fresno, CA ;Edison High School ;CA;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.719865;-119.805839
+12 13 2013;Centennial, CO ;Arapahoe High School ;CO;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.581609;-104.962797
+12 04 2013;Winter Garden, FL ;West Orange High School ;FL;K-12 ;Attack on other persons(s) resulting in injury or death;1;28.540662;-81.568427
+11 21 2013;Rapid City, SD ;South Dakota School of Mines & Technology ;SD;College ;Attack on other persons(s) resulting in injury or death;1;44.07343;-103.206296
+11 03 2013;Stone Mountain, GA ;Stephenson High School ;GA;K-12 ;Attack on other persons(s) resulting in injury or death;1;33.774596;-84.124548
+11 02 2013;Greensboro, NC ;North Carolina A&T State University ;NC;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.074129;-79.774838
+11 01 2013;Algona, IA ;Algona High/Middle School ;IA;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;43.063484;-94.22356
+10 21 2013;Sparks, NV ;Sparks Middle School ;NV;K-12 ;Attack on other persons(s) resulting in injury or death;1;39.55199;-119.7683
+10 15 2013;Austin, TX ;Lanier High School ;TX;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;30.360485;-97.707898
+10 04 2013;Pine Hills, FL ;Agape Christian Academy ;FL;K-12 ;Attack on other persons(s) resulting in injury or death;1;28.575084;-81.475435
+09 28 2013;Gray, ME ;Gray-New Gloucester High School ;ME;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;43.902928;-70.349919
+09 21 2013;Savannah, GA ;Savannah State University ;GA;College ;Attack on other persons(s) resulting in injury or death;1;32.024521;-81.062637
+08 30 2013;Winston-Salem, NC ;Carver High School ;NC;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.134237;-80.207107
+08 23 2013;Sardis, MS ;North Panola High School ;MS;K-12 ;Attack on other persons(s) resulting in injury or death;1;34.443024;-89.925031
+08 22 2013;Memphis, TN ;Westside Elementary School ;TN;K-12 ;Gun fired but no one injured;0;35.216761;-90.037218
+08 20 2013;Decatur, GA ;Ronald E. McNair Discovery Learning Academy ;GA;K-12 ;Gun fired but no one injured;0;33.727219;-84.306962
+08 15 2013;Clarksville, TN ;Northwest High School ;TN;K-12 ;Attack on other persons(s) resulting in injury or death;1;36.574608;-87.433804
+06 19 2013;West Palm Beach, FL ;Alexander W. Dreyfoos School of the Arts ;FL;K-12 ;Attack on other persons(s) resulting in injury or death;1;26.708832;-80.061626
+06 07 2013;Santa Monica, CA ;Santa Monica College ;CA;College ;Attack on other persons(s) resulting in injury or death;1;34.017023;-118.469755
+05 03 2013;Hattiesburg, MS ;University of Southern Mississippi ;MS;College ;Gun fired unintentionally resulting in injury or death;0;31.330012;-89.334042
+04 29 2013;Cincinnati, OH ;La Salle High School ;OH;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;39.189096;-84.586614
+04 16 2013;Tuscaloosa, AL ;Stillman College ;AL;College ;Attack on other persons(s) resulting in injury or death;1;33.198265;-87.585922
+04 15 2013;Grambling, LA ;Grambling State University ;LA;College ;Attack on other persons(s) resulting in injury or death;1;32.521291;-92.719296
+04 13 2013;Elizabeth City, NC ;Elizabeth City State University ;NC;College ;Attack on other persons(s) resulting in injury or death;1;36.281065;-76.21396
+04 12 2013;Christiansburg, VA ;New River Community College ;VA;College ;Attack on other persons(s) resulting in injury or death;1;37.165675;-80.427552
+03 21 2013;Southgate, MI ;Davidson Middle School ;MI;K-12 ;Attempted or completed suicide, with no intent to injure other person;0;42.192549;-83.194443
+03 18 2013;Orlando, FL ;University of Central Florida ;FL;College ;Attempted or completed suicide, with no intent to injure other person;0;28.602427;-81.20006
+02 27 2013;Atlanta, GA ;Henry W. Grady High School ;GA;K-12 ;Gun fired unintentionally resulting in injury or death;0;33.780552;-84.371421
+02 13 2013;San Leandro, CA ;Hillside Elementary School ;CA;K-12 ;Attack on other persons(s) resulting in injury or death;1;37.701747;-122.116367
+02 01 2013;Altanta, GA ;Morehouse College ;GA;College ;Attack on other persons(s) resulting in injury or death;1;33.745955;-84.413865
+01 31 2013;Atlanta, GA ;Price Middle School ;GA;K-12 ;Attack on other persons(s) resulting in injury or death;1;33.708962;-84.387494
+01 22 2013;Houston, TX ;Lone Star College North Harris Campus ;TX;College ;Attack on other persons(s) resulting in injury or death;1;30.007138;-95.379703
+01 16 2013;Chicago, IL ;Chicago State University ;IL;College ;Attack on other persons(s) resulting in injury or death;1;41.717958;-87.609374
+01 15 2013;Hazard, KY ;Hazard Community and Technical College ;KY;College ;Attack on other persons(s) resulting in injury or death;1;37.234696;-83.175954
+01 15 2013;St. Louis, MO ;Stevens Institute of Business & Arts ;MO;College ;Attack on other persons(s) resulting in injury or death;1;38.632973;-90.201098
+01 10 2013;Taft, CA ;Taft Union High School ;CA;K-12 ;Attack on other persons(s) resulting in injury or death;1;35.146303;-119.460509
+01 08 2013;Fort Myers, FL ;Apostolic Revival Center Christian School ;FL;K-12 ;Attack on other persons(s) resulting in injury or death;1;26.640191;-81.834505
