@@ -1,6 +1,7 @@
 *.log
 *.bak
 .vscode
+*.key
 
 data_raw/
 

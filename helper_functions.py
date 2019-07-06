@@ -134,7 +134,7 @@ def plotGlobalPL(sizeEvent,xmin=1,Theo = 0, alpa = 0,ax=None,color=(73./256, 142
 
     plt.hold(True)
 
-    ax.plot((xCCDF),(yCCDF),'.-',color=color,linewidth=2,markersize=15)
+    ax.plot((xCCDF),(yCCDF),'.-',color=color,linewidth=2,markersize=10)
 
 
     if alpa == 0:
@@ -158,7 +158,7 @@ def plotGlobalPL(sizeEvent,xmin=1,Theo = 0, alpa = 0,ax=None,color=(73./256, 142
         slope1, intercept, r_value, p_value, std_err = linregress(np.log10(xCCDF),np.log10(yCCDF))
         #plot(np.log10(xCCDF),intercept+np.log10(xCCDF)*slope1,color='red')
 
-    ax.plot((xCCDF),(Theoretical_CCDF[-len(xCCDF):]),'-.',color='black',linewidth=2)
+    ax.plot((xCCDF),(Theoretical_CCDF[-len(xCCDF):]),':',color='black',linewidth=1)
 
 
     plt.legend(['Data',''.join(['Best slope = ', str(alpha)]),''.join(['paramLR = ', str(-slope1+1)]),],prop={'size':11},loc=3,frameon = False)

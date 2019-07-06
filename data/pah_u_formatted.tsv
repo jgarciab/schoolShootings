@@ -1,0 +1,280 @@
+	Address	Unnamed: 0.1	area_type	city	date	death	lat	lon	number_victims	school	state	suicide	type_school
+0	Centerville, Tennessee, United States	208.0	suburban	Centerville	1990-05-20		35.77895650000001	-87.46695869999998	1		Tennessee		K-12
+1	Las Vegas, Nevada, United States	30.0	urban	Las Vegas	1990-08-26		36.1699412	-115.13982959999998	1		Nevada		K-12
+3	Compton, California, United States	186.0	urban	Compton	1991-04-23		33.8958492	-118.2200712	1		California		K-12
+4	Crosby, Texas, United States	31.0	rural	Crosby	1991-09-18		29.9118885	-95.0621512	1		Texas		K-12
+5	Bronx, New York, United States	154.0	urban	Bronx	1991-10-08		40.8447819	-73.86482679999997	1		New York		K-12
+6	Iowa City, Iowa, United States	91.0	urban	Iowa City	1991-11-01		41.6611277	-91.5301683	5		Iowa		College
+8	Brooklyn, New York, United States	32.0	urban	Brooklyn	1991-11-25		40.6781784	-73.94415790000002	1		New York		K-12
+9	Brooklyn, New York, United States	35.0	urban	Brooklyn	1992-02-26		40.6781784	-73.94415790000002	2		New York		K-12
+10	Olivehurst, California, United States	300.0	suburban	Olivehurst	1992-05-01		39.0954484	-121.5521858	4		California		K-12
+14	Tucson, Arizona, United States	107.0	urban	Tucson	1992-10-12		32.2226066	-110.9747108	1		Arizona		K-12
+16	Houston, Texas, United States	210.0	urban	Houston	1992-11-13		29.7604267	-95.3698028	1		Texas		K-12
+17	Birmingham, Alabama, United States	209.0	urban	Birmingham	1992-11-16		33.5185892	-86.8103567	1		Alabama		K-12
+18	Chicago, Illinois, United States	34.0	urban	Chicago	1992-11-20		41.8781136	-87.62979820000002	1		Illinois		K-12
+20	Chicago, Illinois, United States	152.0	urban	Chicago	1992-12-03		41.8781136	-87.62979820000002	1		Illinois		K-12
+21	Great Barrington, Massachusetts, United States	92.0	suburban	Great Barrington	1992-12-14		42.1959798	-73.36200799999997	2		Massachusetts		College
+22	Kinzers, Pennsylvania, United States	130.0	rural	Kinzers	1993-01-08		39.998466	-76.0615923	1		Pennsylvania		K-12
+23	Miami, Florida, United States	162.0	urban	Miami	1993-01-12		25.7616798	-80.1917902	1		Florida		K-12
+24	Grayson, Kentucky, United States	301.0	suburban	Grayson	1993-01-18		38.3325812	-82.94850229999999	2		Kentucky		K-12
+25	Los Angeles, California, United States	131.0	urban	Los Angeles	1993-01-21		34.0522342	-118.24368490000002	1		California		K-12
+26	Redmond, Washington, United States	259.0	urban	Redmond	1993-02-01		47.6739881	-122.121512	1		Washington		K-12
+27	Amityville, New York, United States	36.0	suburban	Amityville	1993-02-01		40.6789893	-73.4170673	1		New York		K-12
+28	Clayton County, Georgia, United States	37.0	urban	Clayton County	1993-02-04		33.55719439999999	-84.375233	1		Georgia		K-12
+29	Middle River, Minnesota, United States	216.0	rural	Middle River	1993-02-08		48.4341394	-96.1641892	1		Minnesota		K-12
+30	Washington DC, District of Columbia, United States	156.0	urban	Washington DC	1993-02-08		38.9071923	-77.03687070000002	1		District of Columbia		K-12
+31	Dallas, Texas, United States	110.0	urban	Dallas	1993-02-18		32.7766642	-96.7969879	1		Texas		K-12
+32	Los Angeles, California, United States	41.0	urban	Los Angeles	1993-02-22		34.0522342	-118.24368490000002	1		California		K-12
+34	Harlem, Georgia, United States	211.0	suburban	Harlem	1993-03-18		33.4145834	-82.3126237	1		Georgia		K-12
+35	St. Louis, Missouri, United States	38.0	urban	St. Louis	1993-03-25		38.6270025	-90.1994042	1		Missouri		K-12
+36	Sacramento, California, United States	160.0	urban	Sacramento	1993-04-03		38.5815719	-121.4943996	1		California		K-12
+37	Irving, Texas, United States	109.0	urban	Irving	1993-04-14		32.814017699999994	-96.9488945	1		Texas		K-12
+38	Acushnet, Massachusetts, United States	353.0	suburban	Acushnet	1993-04-15		41.7223696	-70.89523369999998	1		Massachusetts		K-12
+39	Sacramento, California, United States	161.0	urban	Sacramento	1993-04-16		38.5815719	-121.4943996	1		California		K-12
+40	Raleigh, North Carolina, United States	215.0	urban	Raleigh	1993-04-26		35.7795897	-78.6381787	1		North Carolina		K-12
+41	Red Hill, Pennsylvania, United States	304.0	rural	Red Hill	1993-05-24		40.3728778	-75.4810131	1		Pennsylvania		K-12
+42	New Orleans, Louisiana, United States	42.0	urban	New Orleans	1993-05-27		29.95106579999999	-90.0715323	1		Louisiana		K-12
+43	Ogden, Utah, United States	93.0	urban	Ogden	1993-07-08		41.223	-111.9738304	1		Utah		College
+44	Atlanta, Georgia, United States	164.0	urban	Atlanta	1993-08-31		33.7489954	-84.3879824	1		Georgia		K-12
+45	Dallas, Texas, United States	159.0	urban	Dallas	1993-09-02		32.7766642	-96.7969879	1		Texas		K-12
+46	Sheridan, Wyoming, United States	352.0	suburban	Sheridan	1993-09-18		44.7971939	-106.9561791	1		Wyoming		K-12
+47	New Castle, Delaware, United States	213.0	suburban	New Castle	1993-10-12		39.66203970000001	-75.5668166	1		Delaware		K-12
+48	Detroit, Michigan, United States	163.0	urban	Detroit	1993-10-14		42.33142700000001	-83.0457538	1		Michigan		K-12
+49	Chicago, Illinois, United States	214.0	urban	Chicago	1993-11-01		41.8781136	-87.62979820000002	1		Illinois		K-12
+50	Jacksonville, Florida, United States	40.0	urban	Jacksonville	1993-11-04		30.3321838	-81.65565099999998	1		Florida		K-12
+51	New Britain, Connecticut, United States	108.0	urban	New Britain	1993-11-04		41.6612104	-72.77954190000001	1		Connecticut		K-12
+52	Bay Springs, Mississippi, United States	157.0	rural	Bay Springs	1993-11-05		31.9790425	-89.2872843	1		Mississippi		K-12
+53	Kansas City, Missouri, United States	158.0	urban	Kansas City	1993-11-29		39.0997265	-94.5785667	1		Missouri		K-12
+54	Wauwatosa, Wisconsin, United States	302.0	suburban	Wauwatosa	1993-12-01		43.049457200000006	-88.0075875	1		Wisconsin		K-12
+55	Savannah, Georgia, United States	39.0	urban	Savannah	1993-12-08		32.0808989	-81.09120300000002	1		Georgia		K-12
+56	Chelsea, Michigan, United States	303.0	suburban	Chelsea	1993-12-17		42.3180919	-84.02050290000003	1		Michigan		K-12
+58	Hacienda Heights, California, United States	43.0	urban	Hacienda Heights	1994-01-20		33.993067700000005	-117.9686755	1		California		K-12
+59	Columbia, South Carolina, United States	218.0	urban	Columbia	1994-01-26		34.0007104	-81.0348144	1		South Carolina		K-12
+60	Seattle, Washington, United States	355.0	urban	Seattle	1994-01-31		47.6062095	-122.33207079999998	1		Washington		K-12
+61	Detroit, Michigan, United States	167.0	urban	Detroit	1994-02-08		42.33142700000001	-83.0457538	1		Michigan		K-12
+62	Belmont, California, United States	132.0	suburban	Belmont	1994-02-14		37.5202145	-122.27580079999998	1		California		K-12
+63	Boonville, Missouri, United States	1.0	suburban	Boonville	1994-03-01		38.97363920000001	-92.74324179999999	2		Missouri		College
+64	Charleston, South Carolina, United States	165.0	urban	Charleston	1994-03-15		32.776474900000004	-79.93105120000001	1		South Carolina		K-12
+66	Seattle, Washington, United States	111.0	urban	Seattle	1994-03-23		47.6062095	-122.33207079999998	1		Washington		K-12
+68	Butte, Montana, United States	285.0	suburban	Butte	1994-04-12		46.0038232	-112.5347775	1		Montana		K-12
+70	Nashville, Tennessee, United States	260.0	urban	Nashville	1994-04-21		36.1626638	-86.78160159999999	1		Tennessee		K-12
+71	North Miami, Florida, United States	221.0	suburban	North Miami	1994-05-02		25.8900949	-80.18671379999998	1		Florida		K-12
+72	Union, Kentucky, United States	305.0	suburban	Union	1994-05-25		38.9458951	-84.68050099999998	4		Kentucky		K-12
+73	Ottumwa, Iowa, United States	306.0	suburban	Ottumwa	1994-07-25		41.01602930000001	-92.4083022	1		Iowa		K-12
+74	Hollywood, California, United States	166.0	urban	Hollywood	1994-09-07		34.0928092	-118.3286614	1		California		K-12
+75	Greensboro, North Carolina, United States	219.0	urban	Greensboro	1994-10-12		36.0726354	-79.79197540000001	1		North Carolina		K-12
+76	San Leandro, California, United States	25.0	urban	San Leandro	1994-11-05		37.7249296	-122.1560768	1		California		K-12
+77	Wickliffe, Ohio, United States	354.0	suburban	Wickliffe	1994-11-07		41.6053266	-81.45344920000002	1		Ohio		K-12
+78	Tacoma, Washington, United States	220.0	urban	Tacoma	1994-11-15		47.2528768	-122.4442906	1		Washington		K-12
+79	Washington DC, District of Columbia, United States	133.0	urban	Washington DC	1995-01-05		38.9071923	-77.03687070000002	1		District of Columbia		K-12
+82	Redlands, California, United States	358.0	urban	Redlands	1995-01-23		34.055569299999995	-117.1825381	1		California		K-12
+83	Chapel Hill, North Carolina, United States	268.0	urban	Chapel Hill	1995-01-26		35.91319960000001	-79.05584449999998	2		North Carolina		College
+84	Long Beach, California, United States	223.0	urban	Long Beach	1995-02-02		33.770050399999995	-118.1937395	1		California		K-12
+85	Laredo, Texas, United States	356.0	urban	Laredo	1995-08-29		27.5035613	-99.5075519	1		Texas		K-12
+86	Memphis, Tennessee, United States	224.0	urban	Memphis	1995-09-12		35.1495343	-90.0489801	1		Tennessee		K-12
+87	Olathe, Kansas, United States	45.0	urban	Olathe	1995-09-14		38.8813958	-94.8191285	2		Kansas		K-12
+88	Tavares, Florida, United States	357.0	urban	Tavares	1995-09-29		28.8041579	-81.72563199999998	1		Florida		K-12
+89	Blackville, South Carolina, United States	44.0	rural	Blackville	1995-10-12		33.3579297	-81.27066059999999	1		South Carolina		K-12
+90	Lynnville, Tennessee, United States	308.0	rural	Lynnville	1995-11-15		35.3767432	-87.0061171	2		Tennessee		K-12
+91	queens, New York, United States	47.0	urban	queens	1995-11-28		40.7282239	-73.7948516	1		New York		K-12
+92	District of Columbia, District of Columbia, United States	261.0	urban	District of Columbia	1996-01-19		38.9071923	-77.03687070000002	1		District of Columbia		K-12
+93	memphis, Tennessee, United States	168.0	urban	memphis	1996-01-26		35.1495343	-90.0489801	1		Tennessee		K-12
+94	Moses Lake, Washington, United States	359.0	suburban	Moses Lake	1996-02-02		47.1301417	-119.2780771	3		Washington		K-12
+95	Palo Alto, California, United States	227.0	urban	Palo Alto	1996-02-08		37.4418834	-122.1430195	1		California		K-12
+96	New London, North Carolina, United States	225.0	rural	New London	1996-03-11		35.4431965	-80.2192225	1		North Carolina		K-12
+97	Talledega, Alabama, United States	48.0	suburban	Talledega	1996-04-11		33.4359416	-86.1058048	1		Alabama		K-12
+98	Hemet, California, United States	226.0	urban	Hemet	1996-06-04		33.7475203	-116.9719684	1		California		K-12
+99	San Diego, California, United States	269.0	urban	San Diego	1996-08-15		32.715738	-117.1610838	3		California		College
+100	San Antonio, Texas, United States	197.0	urban	San Antonio	1996-08-26		29.4241219	-98.4936282	1		Texas		College
+101	State College, Pennsylvania, United States	270.0	urban	State College	1996-09-17		40.7933949	-77.8600012	1		Pennsylvania		College
+102	Scottdale, Georgia, United States	229.0	suburban	Scottdale	1996-09-25		33.789826899999994	-84.26408889999998	1		Georgia		K-12
+103	Philadelphia, Pennsylvania, United States	26.0	urban	Philadelphia	1996-10-02		39.9525839	-75.1652215	2		Pennsylvania		K-12
+104	Playa del Rey, California, United States	50.0	suburban	Playa del Rey	1996-10-04		33.956419399999994	-118.4422317	1		California		K-12
+105	St. Louis, Missouri, United States	49.0	urban	St. Louis	1996-10-13		38.6270025	-90.1994042	1		Missouri		K-12
+106	West Lafayette, Indiana, United States	198.0	suburban	West Lafayette	1996-10-16		40.4258686	-86.90806549999998	1		Indiana		College
+107	Sacramento, California, United States	228.0	urban	Sacramento	1996-11-27		38.5815719	-121.4943996	1		California		K-12
+108	Brooklyn, New York, United States	112.0	urban	Brooklyn	1997-01-11		40.6781784	-73.94415790000002	1		New York		K-12
+109	West Palm Beach, Florida, United States	378.0	urban	West Palm Beach	1997-01-27		26.7153424	-80.0533746	1		Florida		K-12
+110	Tulsa, Oklahoma, United States	266.0	urban	Tulsa	1997-01-31		36.1539816	-95.992775	1		Oklahoma		
+111	Bethel, Alaska, United States	310.0	suburban	Bethel	1997-02-19		60.79222220000001	-161.7558334	2		Alaska		K-12
+112	Jacksonville, Florida, United States	230.0	urban	Jacksonville	1997-02-20		30.3321838	-81.65565099999998	1		Florida		K-12
+113	Detroit, Michigan, United States	51.0	urban	Detroit	1997-03-18		42.33142700000001	-83.0457538	1		Michigan		K-12
+114	Pearl, Mississippi, United States	312.0	suburban	Pearl	1997-10-01		32.2745912	-90.13203109999999	3		Mississippi		K-12
+115	Garland, Texas, United States	231.0	urban	Garland	1997-10-14		32.912624	-96.6388833	1		Texas		K-12
+116	Norwalk, California, United States	267.0	urban	Norwalk	1997-10-22		33.9022367	-118.081733	2		California		K-12
+117	Sacramento, California, United States	286.0	urban	Sacramento	1997-11-13		38.5815719	-121.4943996	1		California		K-12
+118	West Paducah, Kentucky, United States	311.0	suburban	West Paducah	1997-12-01		37.0831102	-88.7442202	3		Kentucky		K-12
+119	Stamps, Arkansas, United States	309.0	rural	Stamps	1997-12-15		33.3654024	-93.4951758	2		Arkansas		K-12
+120	Reed City, Michigan, United States	232.0	rural	Reed City	1998-02-25		43.8750174	-85.5100498	1		Michigan		K-12
+121	Jonesboro, Arkansas, United States	360.0	urban	Jonesboro	1998-03-24		35.84229670000001	-90.704279	5		Arkansas		K-12
+122	Coldwater, Michigan, United States	233.0	suburban	Coldwater	1998-03-25		41.9403263	-85.00052149999998	1		Michigan		K-12
+124	Edinboro, Pennsylvania, United States	313.0	suburban	Edinboro	1998-04-24		41.87422249999999	-80.13172359999999	1		Pennsylvania		K-12
+125	Pomona, California, United States	128.0	urban	Pomona	1998-04-28		34.055103	-117.7499909	2		California		K-12
+126	Buffalo, New York, United States	106.0	urban	Buffalo	1998-05-01		42.88644679999999	-78.8783689	1		New York		K-12
+127	Fayetteville, Tennessee, United States	314.0	suburban	Fayetteville	1998-05-19		35.1520266	-86.57055079999998	1		Tennessee		K-12
+128	Springfield, Oregon, United States	315.0	urban	Springfield	1998-05-21		44.0462362	-123.0220289	4		Oregon		K-12
+129	Rialto, California, United States	235.0	urban	Rialto	1998-05-21		34.1064001	-117.3703235	1		California		K-12
+131	Fort Lauderdale, Florida, United States	234.0	urban	Fort Lauderdale	1998-05-29		26.1224386	-80.13731740000001	2		Florida		K-12
+133	San Bernardino, California, United States	199.0	urban	San Bernardino	1998-09-04		34.1083449	-117.2897652	2		California		College
+135	Detroit, Michigan, United States	271.0	urban	Detroit	1998-12-10		42.33142700000001	-83.0457538	1		Michigan		College
+136	Carollton, Georgia, United States	318.0	suburban	Carollton	1999-01-08		33.580110299999994	-85.0766113	2		Georgia		K-12
+137	North Richland Hills, Texas, United States	238.0	urban	North Richland Hills	1999-01-21		32.8342952	-97.2289029	1		Texas		K-12
+140	Littleton, Colorado, United States	320.0	suburban	Littleton	1999-04-20		39.613321	-105.0166498	15		Colorado		K-12
+141	Atlanta, Georgia, United States	263.0	urban	Atlanta	1999-04-23		33.7489954	-84.3879824	1		Georgia		K-12
+143	Monticello, Georgia, United States	317.0	suburban	Monticello	1999-08-25		33.3048479	-83.68322890000002	1		Georgia		K-12
+144	Plano, Texas, United States	236.0	urban	Plano	1999-09-07		33.0198431	-96.6988856	1		Texas		K-12
+145	San Jose, California, United States	237.0	urban	San Jose	1999-09-09		37.3382082	-121.88632859999998	1		California		K-12
+149	Flint, Michigan, United States	27.0	urban	Flint	2000-02-29		43.0125274	-83.6874562	1		Michigan		K-12
+150	Sierra Vista, Arizona, United States	287.0	urban	Sierra Vista	2000-05-10		31.5455001	-110.27728559999998	2		Arizona		K-12
+151	Lake Worth, Florida, United States	87.0	suburban	Lake Worth	2000-05-26		26.6167555	-80.06844790000002	1		Florida		K-12
+152	Seattle, Washington, United States	94.0	urban	Seattle	2000-06-28		47.6062095	-122.33207079999998	2		Washington		College
+153	Canton, Ohio, United States	53.0	urban	Canton	2000-07-26		40.79894729999999	-81.378447	1		Ohio		K-12
+154	Fayetteville, Arkansas, United States	2.0	urban	Fayetteville	2000-08-28		36.082156	-94.1718542	2		Arkansas		College
+155	Bidwell, Ohio, United States	202.0	suburban	Bidwell	2000-09-05		38.9186892	-82.2990401	2		Ohio		K-12
+157	Los Angeles, California, United States	148.0	urban	Los Angeles	2000-10-23		34.0522342	-118.24368490000002	1		California		College
+158	Brooklyn, New York, United States	239.0	urban	Brooklyn	2000-10-26		40.6781784	-73.94415790000002	1		New York		K-12
+159	Memphis, Tennessee, United States	52.0	urban	Memphis	2000-10-27		35.1495343	-90.0489801	1		Tennessee		K-12
+161	Oxnard, California, United States	244.0	urban	Oxnard	2001-01-10		34.1975048	-119.17705159999998	1		California		K-12
+162	Baltimore, Maryland, United States	243.0	urban	Baltimore	2001-01-17		39.2903848	-76.6121893	1		Maryland		K-12
+163	Arlington, Texas, United States	361.0	urban	Arlington	2001-01-29		32.735687	-97.10806559999999	1		Texas		K-12
+165	Santee, California, United States	323.0	urban	Santee	2001-03-05		32.8383828	-116.97391670000002	2		California		K-12
+168	Gary, Indiana, United States	54.0	urban	Gary	2001-03-30		41.6020403	-87.3371523	1		Indiana		K-12
+170	Cleveland, Ohio, United States	170.0	urban	Cleveland	2001-04-25		41.49932	-81.6943605	1		Ohio		K-12
+172	Pierce County, Washington, United States	272.0	urban	Pierce County	2001-05-17		47.0675877	-122.1295269	1		Washington		College
+176	Gundy, Virginia, United States	189.0	rural	Gundy	2002-01-16		37.2778886	-82.0990223	3		Virginia		College
+177	Charlotte, North Carolina, United States	362.0	urban	Charlotte	2002-07-26		35.2270869	-80.8431267	1		North Carolina		K-12
+178	San Antonio, Texas, United States	123.0	urban	San Antonio	2002-10-04		29.4241219	-98.4936282	1		Texas		K-12
+180	Tucson, Arizona, United States	103.0	urban	Tucson	2002-10-28		32.2226066	-110.9747108	4		Arizona		College
+181	Liberty, Missouri, United States	102.0	suburban	Liberty	2002-11-07		39.2461138	-94.4191177	1		Missouri		K-12
+182	Chicago, Illinois, United States	55.0	urban	Chicago	2002-12-16		41.8781136	-87.62979820000002	1		Illinois		K-12
+185	New Orleans, Louisiana, United States	246.0	urban	New Orleans	2003-04-14		29.95106579999999	-90.0715323	1		Louisiana		K-12
+186	Addison, Texas, United States	288.0	suburban	Addison	2003-04-17		32.96179	-96.82916850000001	1		Texas		K-12
+187	Red Lion, Pennsylvania, United States	364.0	suburban	Red Lion	2003-04-24		39.9009334	-76.6058001	1		Pennsylvania		K-12
+188	Cleveland, Ohio, United States	190.0	urban	Cleveland	2003-05-09		41.49932	-81.6943605	1		Ohio		College
+189	Johnstown, Pennsylvania, United States	326.0	urban	Johnstown	2003-05-13		40.32674069999999	-78.9219698	1		Pennsylvania		K-12
+192	Cold Spring, Minnesota, United States	325.0	suburban	Cold Spring	2003-09-24		45.4536111	-94.4277778	2		Minnesota		K-12
+193	Washington, District Of Columbia, United States	56.0	urban	Washington	2003-10-30		38.9071923	-77.03687070000002	1		District Of Columbia		K-12
+194	Sugar Land, Texas, United States	57.0	urban	Sugar Land	2003-11-07		29.6196787	-95.6349463	1		Texas		K-12
+195	Henderson, Nevada, United States	203.0	urban	Henderson	2004-01-21		36.0395247	-114.9817213	1		Nevada		K-12
+196	District of Columbia, District Of Columbia, United States	58.0	urban	District of Columbia	2004-02-02		38.9071923	-77.03687070000002	1		District Of Columbia		K-12
+198	Philadelphia, Pennsylvania, United States	28.0	urban	Philadelphia	2004-02-11		39.9525839	-75.1652215	1		Pennsylvania		K-12
+201	Salt Lake City, Utah, United States	248.0	urban	Salt Lake City	2004-05-24		40.7607793	-111.89104740000002	1		Utah		K-12
+202	St Croix, Virgin Islands, United States	249.0	urban	St Croix	2004-06-01		17.7245968	-64.83479919999999	1		Virgin Islands		K-12
+203	Maywood, Illinois, United States	173.0	suburban	Maywood	2004-08-30		41.8791979	-87.8431155	1		Illinois		K-12
+205	Philadelphia, Pennsylvania, United States	171.0	urban	Philadelphia	2004-11-22		39.9525839	-75.1652215	1		Pennsylvania		K-12
+206	Nine Mile Falls, Washington, United States	327.0	suburban	Nine Mile Falls	2004-12-10		47.77951029999999	-117.5515185	1		Washington		K-12
+207	Philadelphia, Pennsylvania, United States	60.0	urban	Philadelphia	2005-01-06		39.9525839	-75.1652215	1		Pennsylvania		K-12
+208	Red Lake, Minnesota, United States	193.0	rural	Red Lake	2005-03-21		47.87634600000001	-95.0169401	10		Minnesota		K-12
+209	Lower Allen Township, Pennsylvania, United States	204.0	suburban	Lower Allen Township	2005-05-17		40.2112939	-76.9354979	1		Pennsylvania		K-12
+211	Jacksboro, Tennessee, United States	329.0	rural	Jacksboro	2005-11-08		36.3300793	-84.1838156	1		Tennessee		K-12
+212	Birmingham, Alabama, United States	251.0	urban	Birmingham	2006-01-13		33.5185892	-86.8103567	1		Alabama		K-12
+213	Longwood, Florida, United States	367.0	suburban	Longwood	2006-01-15		28.7030519	-81.3384011	1		Florida		K-12
+214	Roseburg, Oregon, United States	332.0	suburban	Roseburg	2006-02-23		43.216505	-123.3417381	1		Oregon		K-12
+216	Venice, California, United States	61.0	suburban	Venice	2006-06-05		33.9850469	-118.4694832	1		California		K-12
+217	Essex, Vermont, United States	29.0	suburban	Essex	2006-08-24		44.4905054	-73.1112433	2		Vermont		K-12
+218	Hillsborough, North Carolina, United States	117.0	suburban	Hillsborough	2006-08-30		36.0754183	-79.09973470000001	3		North Carolina		K-12
+219	Shepherdstown, West Virginia, United States	200.0	suburban	Shepherdstown	2006-09-02		39.43009960000001	-77.8041609	2		West Virginia		College
+221	Bailey, Colorado, United States	331.0	suburban	Bailey	2006-09-27		39.4060536	-105.4786412	1		Colorado		K-12
+222	Cazenovia, Wisconsin, United States	330.0	rural	Cazenovia	2006-09-29		43.5230345	-90.1962379	1		Wisconsin		K-12
+223	Nickel Mines, Pennsylvania, United States	333.0	rural	Nickel Mines	2006-10-02		39.9592143	-76.0804172	5		Pennsylvania		K-12
+225	Katy, Texas, United States	135.0	suburban	Katy	2006-10-17		29.7857853	-95.8243956	1		Texas		K-12
+226	Fresno, California, United States	375.0	urban	Fresno	2006-10-29		36.737798100000006	-119.7871247	1		California		K-12
+227	Houston, Texas, United States	118.0	urban	Houston	2006-11-28		29.7604267	-95.3698028	1		Texas		K-12
+228	Erdenheim, Pennsylvania, United States	366.0	rural	Erdenheim	2006-12-12		40.0909252	-75.2156845	1		Pennsylvania		K-12
+229	Tacoma, Washington, United States	101.0	urban	Tacoma	2007-01-03		47.2528768	-122.4442906	1		Washington		K-12
+230	Prineville, Oregon, United States	335.0	suburban	Prineville	2007-02-08		44.2998485	-120.8344664	1		Oregon		K-12
+234	Seattle, Washington, United States	96.0	urban	Seattle	2007-04-02		47.6062095	-122.33207079999998	1		Washington		College
+236	Blacksburg, Virginia, United States	95.0	urban	Blacksburg	2007-04-16		37.2295733	-80.4139393	32		Virginia		College
+237	Dover, Delaware, United States	90.0	urban	Dover	2007-09-21		39.158168	-75.5243682	1		Delaware		College
+239	Memphis, Tennessee, United States	379.0	urban	Memphis	2007-09-30		35.1495343	-90.0489801	1		Tennessee		College
+246	Baton Rouge, Louisiana, United States	10.0	urban	Baton Rouge	2008-02-08		30.451467699999995	-91.18714659999999	3		Louisiana		College
+248	Oxnard, California, United States	369.0	urban	Oxnard	2008-02-12		34.1975048	-119.17705159999998	1		California		K-12
+249	DeKalb, Illinois, United States	273.0	urban	DeKalb	2008-02-14		41.9294736	-88.75036469999998	5		Illinois		College
+253	Mobile, Alabama, United States	64.0	urban	Mobile	2008-03-06		30.6953657	-88.0398912	1		Alabama		K-12
+254	Chicago, Illinois, United States	63.0	urban	Chicago	2008-03-07		41.8781136	-87.62979820000002	1		Illinois		K-12
+255	Chicago, Illinois, United States	65.0	urban	Chicago	2008-04-05		41.8781136	-87.62979820000002	1		Illinois		K-12
+256	Fresno, California, United States	67.0	urban	Fresno	2008-04-16		36.737798100000006	-119.7871247	1		California		K-12
+260	Federal Way, Washington, United States	125.0	urban	Federal Way	2008-08-14		47.3223221	-122.3126222	1		Washington		K-12
+261	Knoxville, Tennessee, United States	119.0	urban	Knoxville	2008-08-21		35.96063839999999	-83.9207392	1		Tennessee		K-12
+264	San Antonio, Texas, United States	274.0	urban	San Antonio	2008-10-13		29.4241219	-98.4936282	1		Texas		College
+265	Detroit, Michigan, United States	69.0	urban	Detroit	2008-10-16		42.33142700000001	-83.0457538	1		Michigan		K-12
+266	Acton, California, United States	338.0	suburban	Acton	2008-10-20		34.469994	-118.1967418	1		California		K-12
+267	Indianapolis, Indiana, United States	68.0	urban	Indianapolis	2008-10-21		39.768403	-86.158068	1		Indiana		K-12
+268	Conway, Arkansas, United States	8.0	urban	Conway	2008-10-26		35.0886963	-92.4421011	2		Arkansas		College
+270	Fort Lauderdale, Florida, United States	66.0	urban	Fort Lauderdale	2008-11-12		26.1224386	-80.13731740000001	1		Florida		K-12
+271	St. George, Utah, United States	339.0	urban	St. George	2008-11-15		37.0965278	-113.5684164	1		Utah		K-12
+275	Cahokia, Illinois, United States	256.0	suburban	Cahokia	2009-01-23		38.5708849	-90.1901113	1		Illinois		K-12
+276	Houston, Texas, United States	380.0	urban	Houston	2009-02-07		29.7604267	-95.3698028	1		Texas		College
+280	Jacksonville, Florida, United States	342.0	urban	Jacksonville	2009-03-10		30.3321838	-81.65565099999998	2		Florida		K-12
+281	Dearborn, Michigan, United States	11.0	urban	Dearborn	2009-04-10		42.3222599	-83.17631449999998	1		Michigan		College
+282	Houston, Texas, United States	275.0	urban	Houston	2009-04-24		29.7604267	-95.3698028	1		Texas		College
+287	Cambridge, Massachusetts, United States	15.0	urban	Cambridge	2009-05-18		42.3736158	-71.10973349999998	1		Massachusetts		College
+288	Lexington, Kentucky, United States	371.0	urban	Lexington	2009-06-09		38.040583700000006	-84.50371640000002	1		Kentucky		K-12
+290	Parkersburg, Iowa, United States	343.0	rural	Parkersburg	2009-06-24		42.57747970000001	-92.78686340000002	1		Iowa		K-12
+292	Atlanta, Georgia, United States	12.0	urban	Atlanta	2009-09-03		33.7489954	-84.3879824	1		Georgia		College
+296	Carolina Forest, South Carolina, United States	341.0	suburban	Carolina Forest	2009-10-16		33.7532424	-78.9175088	1		South Carolina		K-12
+297	Long Beach, California, United States	73.0	urban	Long Beach	2009-10-30		33.770050399999995	-118.1937395	1		California		K-12
+303	Livingston, Alabama, United States	76.0	suburban	Livingston	2010-01-20		32.5843025	-88.1872475	1		Alabama		K-12
+304	Madison, Alabama, United States	194.0	suburban	Madison	2010-02-05		34.6992579	-86.74833180000002	1		Alabama		K-12
+306	Huntsville, Alabama, United States	278.0	urban	Huntsville	2010-02-12		34.730368799999994	-86.5861037	3		Alabama		College
+309	Tacoma, Washington, United States	291.0	urban	Tacoma	2010-02-26		47.2528768	-122.4442906	2		Washington		K-12
+310	Columbus, Ohio, United States	16.0	urban	Columbus	2010-03-09		39.9611755	-82.99879419999998	1		Ohio		College
+313	Blountville, Tennessee, United States	345.0	suburban	Blountville	2010-08-31		36.5331586	-82.32680599999998	1		Tennessee		K-12
+315	Moss Bluff, Louisiana, United States	143.0	suburban	Moss Bluff	2010-09-16		30.3027042	-93.19070970000001	1		Louisiana		K-12
+317	Austin, Texas, United States	104.0	urban	Austin	2010-09-28		30.267153000000004	-97.7430608	1		Texas		College
+318	Salinas, California, United States	179.0	urban	Salinas	2010-10-01		36.6777372	-121.6555013	1		California		K-12
+319	Elizabeth City, North Carolina, United States	277.0	suburban	Elizabeth City	2010-10-03		36.2946008	-76.2510461	1		North Carolina		College
+323	Omaha, Nebraska, United States	79.0	urban	Omaha	2011-01-05		41.2565369	-95.9345034	1		Nebraska		K-12
+325	Placerville, California, United States	294.0	suburban	Placerville	2011-02-02		38.7296252	-120.798546	1		California		K-12
+327	Los Angeles, California, United States	97.0	urban	Los Angeles	2011-02-23		34.0522342	-118.24368490000002	1		California		College
+329	Houston, Texas, United States	182.0	urban	Houston	2011-03-31		29.7604267	-95.3698028	1		Texas		K-12
+330	Opelika, Alabama, United States	281.0	suburban	Opelika	2011-04-06		32.6454116	-85.3782795	1		Alabama		College
+337	Blacksburg, Virginia, United States	280.0	urban	Blacksburg	2011-12-08		37.2295733	-80.4139393	1		Virginia		College
+343	Chardon, Ohio, United States	347.0	suburban	Chardon	2012-02-27		41.5786639	-81.2133262	3		Ohio		K-12
+344	Jacksonville, Florida, United States	349.0	urban	Jacksonville	2012-03-06		30.3321838	-81.65565099999998	1		Florida		K-12
+345	Starkville, Mississippi, United States	20.0	suburban	Starkville	2012-03-24		33.4503998	-88.81838719999998	1		Mississippi		College
+346	Oakland, California, United States	98.0	urban	Oakland	2012-04-02		37.8043637	-122.27111370000002	7		California		College
+347	Chapel Hill, North Carolina, United States	297.0	urban	Chapel Hill	2012-05-26		35.91319960000001	-79.05584449999998	1		North Carolina		K-12
+354	Newtown, Connecticut, United States	296.0	suburban	Newtown	2012-12-14		41.4141172	-73.3035651	27		Connecticut		K-12
+355	Fort Myers, Florida, United States	153.0	urban	Fort Myers	2013-01-07		26.640628000000003	-81.87230840000002	1		Florida		K-12
+357	Hazard, Kentucky, United States	283.0	suburban	Hazard	2013-01-15		37.24954	-83.19322840000002	3		Kentucky		College
+363	Orlando, Florida, United States	99.0	urban	Orlando	2013-03-18		28.5383355	-81.3792365	1		Florida		College
+366	Cambridge, Massachusetts, United States	191.0	urban	Cambridge	2013-04-18		42.3736158	-71.10973349999998	2		Massachusetts		College
+368	Santa Monica, California, United States	192.0	urban	Santa Monica	2013-06-07		34.01945429999999	-118.4911912	6		California		College
+369	West Palm Beach, Florida, United States	120.0	urban	West Palm Beach	2013-06-20		26.7153424	-80.0533746	2		Florida		K-12
+371	Sardis, Mississippi, United States	82.0	rural	Sardis	2013-08-23		34.4370511	-89.91592270000002	1		Mississippi		K-12
+374	Sparks, Nevada, United States	127.0	urban	Sparks	2013-10-21		39.5349112	-119.7526886	2		Nevada		K-12
+379	Centennial, Colorado, United States	351.0	suburban	Centennial	2013-12-13		39.5807452	-104.8771726	2		Colorado		K-12
+225					2014-01-21	1.0	40.425869	-86.908066	1		IN		College
+226					2014-01-24	1.0	33.491820000000004	-80.855648	1		SC		College
+227					2014-01-25	1.0	34.05223400000001	-118.243685	1		CA		College
+228					2014-04-11	1.0	42.33142700000001	-83.045754	1		MI		K-12
+229					2014-04-21	1.0	41.528369	-87.42365	1		IN		K-12
+230					2014-05-23	1.0	34.420831	-119.69819	6		CA		College
+231					2014-06-05	1.0	47.60621	-122.332071	1		WA		College
+232					2014-06-10	1.0	45.539286	-122.387313	1		OR		K-12
+233					2014-10-24	1.0	48.051764	-122.177082	4		WA		K-12
+234					2014-11-20	1.0	25.76168	-80.19179	1		FL		K-12
+235					2015-02-14	1.0	37.302163	-120.482968	1		CA		K-12
+236					2015-04-13	1.0	35.384884	-77.992765	1		NC		College
+237					2015-08-27	1.0	32.083541	-81.099834	1		GA		College
+238					2015-09-03	1.0	38.581572	-121.4944	1		CA		College
+239					2015-09-14	1.0	33.744002	-90.724819	1		MS		College
+240					2015-10-01	1.0	43.216505	-123.341738	9		OR		College
+241					2015-10-09	1.0	35.198284	-111.651302	1		AZ		College
+242					2015-10-09	1.0	29.760427000000004	-95.369803	1		TX		College
+243					2015-10-22	1.0	36.162664	-86.781602	1		TN		College
+244					2015-11-01	1.0	36.09986	-80.24421600000002	1		NC		College
+245					2015-11-20	1.0	36.19885900000001	-115.117501	1		NV		K-12
+246					2016-02-12	1.0	33.538652	-112.185987	1		AZ		K-12
+247					2016-06-01	1.0	34.05223400000001	-118.243685	1		CA		College
+248					2016-06-08	1.0	42.30163	-71.067605	1		MA		K-12
+249					2016-09-28	1.0	34.563714000000004	-82.898478	1		SC		K-12
+250					2017-04-10	1.0	34.108345	-117.289765	2		CA		K-12
+251					2017-05-04	1.0	32.814018	-96.948894	1		TX		College
+252					2017-09-13	1.0	47.45212100000001	-117.130747	1		WA		K-12
+253					2017-11-14	1.0	40.000688	-122.458047	5		CA		K-12
+254					2017-12-07	1.0	36.822226	-107.992845	2		NM		K-12
+255					2018-01-20	1.0	36.09986	-80.24421600000002	1		NC		College
+256					2018-01-23	1.0	36.857377	-88.401604	2		KY		K-12
+257					2018-02-14	1.0	26.310777	-80.253225	17		FL		K-12
