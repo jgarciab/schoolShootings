@@ -1,5 +1,0 @@
-* Notes
-  - Base for paper is here:
-    https://www.overleaf.com/2036573zbvgvk#/5141765/
-  - arXiv version: http://arxiv.org/abs/1506.06305
-  - arXiv password: egmdz
